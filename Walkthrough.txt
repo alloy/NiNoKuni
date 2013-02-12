@@ -2900,6 +2900,12 @@ TIP: Now's also a good time to equip the Cloud Clover on Thumbelemur, as it'll
      equipment you haven't yet given your familiars should now be put to use
      as well.
 
+     Also, because of that short event with the "timer", you'll actually miss a
+     part of the map. If you don't want to backtrack here later for the sake of
+     completions, head back southwest between the two pieces of map (main area,
+     then the crater) to ensure that you get it 100%. Check your Telling Stone's
+     "Dangerous Places" to double check the number.
+
 Continue northeast to the crater, where Shadar will summon a giant lava beast
 for you to take on!
 
@@ -6472,15 +6478,173 @@ excellent equipment and items. The Blazing Blade will prove extremely valuable
 in the upcoming dungeon, and the water-resisting armor pieces are also rather
 handy.
 
+Before heading off to the Glittering Grotto, it's time to heal some hearts and
+bash some baddies.
+
+NOTE: There are four pieces of heart you can get here in Yule, and three of them
+¯¯¯¯¯ will allow you to finally complete Errands that we've been waiting on.
+
+      • Belief (Tomte beside Swift Solutions.) Use it for Errand #037 below.
+      • Kindness (girl near snowman at the north end of town.) Use it for Errand
+                 #019 in Ding Dong Dell.
+      • Courage (kid walking around the west side of town.) Use it for Errand
+                 #016 in Ding Dong Dell.
+      • Confidence (grandma on the west side of the Cat's Cradle.) Use it for
+                   Errand #023 in The Fairyground.
+
 
 ***  ERRANDS / BOUNTIES  ***
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • Errand #016 - Strength to Soldier On (finish)
+ • Errand #019 - With Friends Like These (finish)
+ • Errand #023 - Comedy Gold (finish)
+
  • Errand #020 - A Shivering Wreck
  • Errand #037 - A Mean-Hearted Hubby
  • Errand #059 - Moving On
  • Errand #060 - A Hot New Look
  • Errand #073 - Snow-Loving Creatures
  • Bounty #106 - Sleighbell Hell
+
+
+ _________________________________
+| ERRAND #020 - A Shivering Wreck |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A man from Yule is refusing to leave the house, having given in |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ to his dislike of the cold.                                     |
+|------------------------------------------------------------------------------|
+| GOAL: Restore his restraint so that he can go outside again.                 |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 3  | REWARDS: [ ] Snow-White Ice Cream x3, [ ] 1000 G                |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| The man in question is in the elder's home on the northeast part of town.    |
+| Talk to him to find that he's missing his restraint. You should still have   |
+| some from Hamelin (if not, go grab it) so give it to him to restore him to   |
+| normal.                                                                      |
+|______________________________________________________________________________|
+
+ ____________________________________
+| ERRAND #037 - A Mean-Hearted Hubby |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: One of the traveling merchants suddenly finds himself unable to |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ trust anyone, much to his wife's dismay.                        |
+|------------------------------------------------------------------------------|
+| GOAL: Restore his belief so that he can trust people once more.              |
+| UNLOCK REQUIREMENT: Complete Errand #036.                                    |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 3  | REWARDS: [ ] Sprite Dew, [ ] 1000 G                             |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| The merchant couple we've been dealing with for quite a while needs help     |
+| again. Talk to the husband in the northern section of Yule on the left side  |
+| to learn that he needs some belief. Luckily, the Tomte standing next to      |
+| Swift Solutions has some, so do the old switcheroo to restore the husband    |
+| back to his old ways.                                                        |
+|______________________________________________________________________________|
+
+ _________________________
+| ERRAND #059 - Moving On |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A young girl is worried about how her pet jabberguppy is coping |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ since she became a ghost.                                       |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to look after the girl's pet jabberguppy.                        |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Snowblower Gem, [ ] 1500 G                         |
+| ¯¯¯¯¯¯¯    | FORMULAE: 046 (Jumbo Planetdrop)                                |
+|____________|_________________________________________________________________|
+|                                                                              |
+| To start this errand, you have to return to Sleety Hollow, which was the     |
+| hidden cave you visited earlier to the southeast of Yule. Return there by    |
+| having Tengri drop you off in the open area just to the north of the large   |
+| ice chunks, then enter the cave and talk to the girl in here. Of course, to  |
+| ACTUALLY speak with her, use 'Spirit Medium', and you'll find out that she   |
+| just wants you to toughen her pet jabberguppy up so that it can move on      |
+| without her.                                                                 |
+|                                                                              |
+| To complete this task, you must level up the Jabberguppy from 30 to 40. You  |
+| can either just throw it in your party and come back once the time comes, or |
+| you can take it just outside of Perdida near Billy Goat's Bluff and fight    |
+| four Tokotokos to get there. Either way, once you're at 40, she'll reward    |
+| you and this errand will come to a close, with you keeping the pet familiar. |
+|______________________________________________________________________________|
+
+ ______________________________
+| ERRAND #060 - A Hot New Look |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A Yule woman would like nothing more than to get her hands on a |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ snazzy swimsuit.                                                |
+|------------------------------------------------------------------------------|
+| GOAL: Listen to the woman's request.                                         |
+| UNLOCK REQUIREMENT: Complete Errand #049.                                    |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Sarsaparilla Sundae x2,                            |
+| ¯¯¯¯¯¯¯    |          [ ] Snow-White Ice Cream x2, 5000 G                    |
+|            | ITEMS: [ ] Snazzy Swimsuit                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Yule, there's a woman walking around in circles around town; talk to her  |
+| to find out that she wants a swimsuit from Castaway Cove. Simple enough; use |
+| 'Travel' to go there, then talk to the woman from earlier, whom you helped   |
+| design a new swimsuit. (She's the one walking around in purple pants.)       |
+|                                                                              |
+| Of course, as chance would have it, her very last one was stolen, so you     |
+| must retrieve it. Go back out on the World Map and summon Tengri, then go    |
+| west to the island of Bungler's Bay. Land on the northern part of the island |
+| just below some trees, then seek out the treacherous seagull to your east.   |
+| Use 'Nature's Tongue' to obtain the [SNAZZY SWIMSUIT]. With it in hand,      |
+| return to Yule and give it to the woman for your reward.                     |
+|______________________________________________________________________________|
+
+ _____________________________________
+| ERRAND #073 - Snow-Loving Creatures |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: Derwin has moved on to Yule in search of more creature data.    |
+| ¯¯¯¯¯¯¯¯¯¯¯¯                                                                 |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to help Derwin with his research.                                |
+| UNLOCK REQUIREMENT: Complete errand #072.                                    |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 6  | REWARDS: [ ] Jumbo Sundrop, [ ] Jumbo Stardrop, [ ] 3000 G      |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| You'll find Derwin travelling once again; talk to him near the entrance to   |
+| the city, on the left. He needs three more familiars; an Ice Queen, a        |
+| Sasquash, and a Lotus Bubbud. The Ice Queen can be found inside of the       |
+| Glittering Grotto itself, while the other two can be found on the World Map. |
+| The Lotus Bubbud will likely be the most difficult to catch.                 |
+|______________________________________________________________________________|
+
+ _______________________________
+| BOUNTY #106 - Sleighbell Hell |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A family of monsters have invaded the Sleighbell Isles          |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ northeast of the Winter Isles. They cannot be allowed to stay!  |
+|------------------------------------------------------------------------------|
+| LAST SEEN: On the Sleighbell Isles (Northern Winter Isles).                  |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 4  | REWARDS: [ ] Snowball Gem, [ ] 1500 G                           |
+| ¯¯¯¯¯¯¯    | ENEMIES: Sasquash (054), Papa Sasquash (055), Sasquish (053)    |
+|            | SPOILS: 303 EXP, 406 G                                          |
+|____________|_________________________________________________________________|
+|                                                                              |
+| Your target is on the Sleighbell Isles to the northeast of the main          |
+| continent, so have Tengri drop you off in the northern center of the island, |
+| where you'll find the Papa Sasquash. Make sure to save before taking him on. |
+|                                                                              |
+| In the battle, beware of the Sasquashes and Sasquish using the Earsplitter   |
+| trick, as they can all use it right after another if they like, making the   |
+| battle end very quickly, and not in your favor.                              |
+|                                                                              |
+| Work on getting rid of the Sasquish first, then the Sasquash, then the Papa. |
+| Having the Blazing Blades that you can purchase from Yule help out immensely |
+| here, as well as any fire-based tricks your familiars know.                  |
+|______________________________________________________________________________|
+
 
 
 GLITTERING GROTTO - HALL OF THE MOUNTAIN KING [WLK-5.6]
@@ -6592,6 +6756,65 @@ NOTE: With the quest for the three stones taken care of, make sure to make a
  • Errand #083 - Notes from the Snow
 
 
+ ___________________________________
+| ERRAND #061 - Yule Have to Search |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A tomte mother in Yule is worried about her son, whose          |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ whereabouts are unknown.                                        |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to help the tomte find her son.                                  |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Medal of Valor, [ ] 2000 G                         |
+| ¯¯¯¯¯¯¯    | ENEMIES: Water Ogrrr (332), Turban Legend (120)                 |
+|____________|_________________________________________________________________|
+|                                                                              |
+| Talk to the purple Tomte standing in the center of the northern part of town |
+| to learn that she's unsure of wherre her son is, so it's Ollie and Drippy to |
+| the rescue.                                                                  |
+|                                                                              |
+| Talk to the little kid near the northern exit of town, and he'll tell you    |
+| that the poor kid is in the Glittering Grotto, so travel there at once. Make |
+| sure you're healed at the Waystone, then proceed far northwest to find the   |
+| kid being ambushed by a Water Ogrrr and three Turban Legends.                |
+|                                                                              |
+| Quickly dispose of the Turban Legends first, using any fire-based tricks up  |
+| your sleeve. Once they're down, then focus on the Water Ogrrr. They're not   |
+| too tough, but if you don't get rid of the Turban Legends quickly, then you  |
+| may have to spend extra time healing just to keep up. Once the battle is     |
+| over and you've talked to the kid, you'll automatically return to Yule and   |
+| be able to reap the rewards.                                                 |
+|______________________________________________________________________________|
+
+ ___________________________________
+| ERRAND #083 - Notes from the Snow |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A man visiting Yule is rather flustered after misplacing his    |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ diary for the umpteenth time.                                   |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to look for the missing diary.                                   |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Dress Armor, [ ] 2000 G                            |
+| ¯¯¯¯¯¯¯    | ITEMS: [ ] Traveler's Diary                                     |
+|____________|_________________________________________________________________|
+|                                                                              |
+| Ugh, this guy... You know him. Time to find his blasted diary once again. He |
+| is by the elder's house on the northern part of town, so talk to him to get  |
+| started. This time, the diary is in the forest glade that we've already      |
+| visited; have Tengri drop you off on the other side of the river to the west |
+| of Yule, then go northwest into the large forest to find the glade again.    |
+| Talk to the woman here to find the [TRAVELER'S DIARY], then return it once   |
+| again.                                                                       |
+|______________________________________________________________________________|
+
+
+NOTE: If you've completed all of the errands available up until now, you will
+¯¯¯¯  unlock the 'Humanitarian of the Year' trophy.
+
+TIP: After this last batch of Errands have been completed, you should be able to
+¯¯¯¯ afford your first third tier Merit Award! I recommend grabbing the "Jack of
+     Hearts" reward, that way you'll have an easier time recruiting familiars.
+
+
           S E C T I O N   S I X:  T H E   D A R K   D J I N N [WLK-6]
           ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
@@ -6667,10 +6890,17 @@ head inside.
 PERDIDA - THE LOST LAND [WLK-6.2]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ITEMS: [ ] Breeze Cake, [ ] Hot-Blooded Badge, [ ] Patty Cake, [ ] Game Pie,
-¯¯¯¯¯¯ [ ] Snowdrop Bonbons, [ ] Fruit Flan, [ ] Pixie Dew, [ ] Nostrum
+¯¯¯¯¯¯ [ ] Snowdrop Bonbons, [ ] Fruit Flan, [ ] Pixie Dew, [ ] Nostrum,
+       [ ] Shining Scales, [ ] Blackwyrm Claws, [ ] Hocus Focus Gem,
+       [ ] Spire of Fire Gem, [ ] Tricksy Nixy Gem, [ ] Dark Cloud Gem,
+       [ ] Steam Hammer, [ ] Helm of Hamelin, [ ] Beast-Hide Cloak,
+       [ ] Night Blade, [ ] Starspun Tunic, [ ] Medal of Valor,
+       [ ] Sorceress's Robes, [ ] Drowsy Drops Gem, [ ] Brinkman's Badge,
+       [ ] Dragonstooth Ring, [ ] Enigma Armor, [ ] Slow Poke Gem
 
 *ITEMS: [ ] Fairy Chocolate (50%) or Babana Flan (30%) or Carnation Cake (10%),
-¯¯¯¯¯¯¯ [ ] 100 G (50%) or 160 G (30%) or 200 G (20%)
+¯¯¯¯¯¯¯ [ ] 100 G (50%) or 160 G (30%) or 200 G (20%), [ ] Green Grapes,
+        [ ] Rumblenut
 
 PAGES: [ ] 335 (Xanadu), [ ] 33 (Veil), [ ] 287-291 (The Seventh Tale),
 ¯¯¯¯¯¯ [ ] 24 (Healing Hand), [ ] 53 (Fortune's Fool), [ ] 64 (Unleash)
@@ -6802,15 +7032,131 @@ going to the elder's house (to the west, in the center part of town) and use
 Now that the people of the town are back to normal, they are more willing to
 help you out. Just outside of the elder's house is a boy to the north; talk to
 him, and he'll give you quite a few formulae: 004, 012, 048, 049, 055, 062, 066,
-075, 092, 102, 117, 119, 120, and 123. After that, head ot the entrance of town,
+075, 092, 102, 117, 119, 120, and 123. After that, head to the entrance of town,
 where the guard here will have one more formula for you: 126, the Herald's Harp
 for Esther! You need a Cherub's Wing (just won from the boss), a Powerstone
 (obtained from the forage point outside of town), and 2 Gustplumes (dropped or
 stolen from the Prohawks around Perdida.) Once you have these, upgrade her
 weapon!
 
-With new story objectives unlocked comes more Errands and Bounties! And don't
-forget, you can now unlock Purple Chests, so we'll get those as well!
+With new story objectives unlocked comes more Errands and Bounties! And since
+we can now unlock Purple Chests, we'll get those first! We'll start from Ding
+Dong Dell.
+
+
+   List of Purple Chests (and other treasures along the way)
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • Ding Dong Dell - Make your way to Swift Solutions, then proceed east and up
+   a small spiral stairway that takes you up to another level. The chest is on
+   the left side; open it for [SHINING SCALES].
+
+ • Ding Dong Well - Once you've made it to the well, use your 'Chart Chests'
+   spell to see that it's at the end of the dungeon, just to the west of the
+   Waystone in the section beside it, at a dead-end. Just follow the path from
+   the start all the way to the end, but once you head north past the last lit
+   torch, continue all the way north, then east to the dead-end. Inside will be
+   [BLACKWYRM CLAWS].
+
+ • Golden Grove - From the southern entrance/exit, just head west of the
+   Waystone here to find the chest. This one has a [HOCUS FOCUS GEM].
+
+ • Old Smoky - Thankfully we don't have to go far for this one. From the
+   entrance, just go north to the first fork, then head all the way southeast
+   and you'll find it at the dead-end. It has a [SPIRE OF FIRE GEM] inside.
+
+ • Hamelin - Go to the Black Market, and there is a purple chest waiting near
+   the shopkeeper. It has a [TRICKSY NIXY GEM].
+
+ • The Tombstone Trail - If you use 'Chart Chests', you'll see that this purple
+   chest is at the westernmost point of the map, between the first and second
+   Waystones of the area. So just head east, then north, then west, and it
+   should be on your left as you turn north again, at the base of a tree. This
+   one contains a [DARK CLOUD GEM].
+
+ • The Vault of Tears - This one is at the far northeastern corner of the
+   dungeon, so use 'Chart Chests' to pinpoint it. It's along the easternmost
+   wall in the lower portion of the room, to the south, and has a [STEAM HAMMER]
+   inside, an excellent weapon for your more burly familiars.
+
+ • The Glittering Grotto - Make your way all the way north until you can descend
+   to the lower level of the area - using Pulse along the way to make bridges -
+   then use 'Chart Chests'. You'll see that it is directly north, in the section
+   to the left of the next Waystone. Take the western north path here and follow
+   it to the open area here to be able to get the [HELM OF HAMELIN].
+
+NOTE: After finding all of these chests above, ALL of the places listed under
+¯¯¯¯¯ 'Dangerous Places' by the Telling Stone should be marked as 'Percentage
+      Explored: 100%', and 'Cleared!'
+
+   Now, for all of the purple chests in places that we can't just 'Travel' to.
+
+
+ • Russet Isle - Travel to Skull Mountain, the fly south-southwest of it back to
+   Russet Isle. Enter the forest glade here in the center of the island, then
+   open the purple chest here for a [BEAST-HIDE CLOAK].
+
+ • Shipwreck Shore - Travel to The Vault of Tears, then fly to forest glade
+   directly east-southeast, which is on a higher plateau to the east, near the
+   wrecked ship by the shore. The chest here has a [NIGHT BLADE].
+
+ • Alchemist's Cave - Travel to Castaway Cove, then fly just to the north, and
+   look for the Cave once again on the eastern plateau as you go to fly into the
+   Shimmering Sands. Open this chest for a [STARSPUN TUNIC].
+
+ • No Longer Mine Isle - Travel to The Fairyground, then fly north to No Longer
+   Mine Isle. Enter the forest glade here at the southern tip of the island (the
+   tiny isle covered in nothing but trees) and open the chest here for a [MEDAL
+   OF VALOR].
+
+ • Hermit's Shell - As with before, you can only reach it by boat, so travel to
+   Castaway Cove and head west in the Sea Cow. Once you're on Hermit's Shell,
+   enter the Hermitage here and open the purple chest near the Puss in Boats for
+   a set of [SORCERESS'S ROBES].
+
+   Now, for a mix of exploration while finishing up the purple chests.
+
+
+   Bungler's Bay:
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   This island is directly south of Old Smoky, or west of Castaway Cove, if you
+   look at it that way.
+
+ • Have Tengri drop you off on the northern part of the island, just south of
+   the trees. Check the forest all the way to the north to find a [DROWSY DROPS
+   GEM].
+
+ * Head west along the mountain while saying on the high level, and you'll come
+   across a forage point with [GREEN GRAPES].
+
+ • Hop back on Tengri and have him drop you off on the tree-covered island to
+   the northeast just off the coast. There's a forest glade here, so head
+   inside. Open the purple chest for a [BRINKMAN'S BADGE]. There's also a green
+   chest way up to the east. Use your 'Chart Chests' spell, then stand directly
+   west from the chest icon as far as you can, and face east to find the vantage
+   point. Have Swaine crack it open for you to obtain the [DRAGONSTOOTH RING].
+
+
+   Turtle Crag isle:
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   This island is west of Russet Isle, or south of Yule. Travel to Yule, then
+   head to the far south to Turtle Crag isle, the smaller island northwest of
+   the lower left continent.
+
+ * Land in the center of the island, then check the forage point to the north
+   for a [RUMBLENUT].
+
+ • From the center, travel to the northernmost forest to enter a forest glade.
+   Open the purple chest on the right side for a suit of [ENIGMA ARMOR], then
+   stand about halfway between the purple chest and the northern exit. Face the
+   southwest from here, and you should see a green chest and Swaine's vantage
+   point; open the green chest for a [SLOW POKE GEM].
+
+ • Make your way to the southeastern beach of the island, then follow along the
+   eastern edge of it as you travel north to come to a dead end. There's a chest
+   here with a [PIXIE DEW].
+
+With all of that exploration done, it's time to take care of the errands and
+bounties.
 
 
 ***  ERRANDS / BOUNTIES  ***
@@ -6829,10 +7175,306 @@ forget, you can now unlock Purple Chests, so we'll get those as well!
  • Bounty #108 - A Kingdom on the Brink
  • Bounty #109 - Magmadeddon
 
+ _______________________________
+| ERRAND #025 - Big Babana Love |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A Mamooni farmer has suddenly lost his love for babanas, the    |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ crop to which he has devoted his life.                          |
+|------------------------------------------------------------------------------|
+| GOAL: Restore his love and get him farming babanas once more.                |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Golden Pie x2, [ ] 1500 G                          |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Al Mamoon, talk to the man in front of the Cawtermaster's store. He needs |
+| some love to keep going, but there's none here in Al Mamoon. Travel to       |
+| Perdida, then go to the outside of the elder's house (west of Swift          |
+| Solutions) to take some love from the woman here. Return to Al Mamoon to     |
+| deliver.                                                                     |
+|______________________________________________________________________________|
 
-   List of Purple Chests
-   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
- • COMING SOON!
+ _______________________________
+| ERRAND #026 - Unrequited Love |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A young woman from Castaway Cove no longer feels any love for   |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ her husband-to-be.                                              |
+|------------------------------------------------------------------------------|
+| GOAL: Restore her love and save her relationship!                            |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Fruit Flan x3, [ ] 1500 G                          |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Castaway Cove, there's a woman with a basket on her head on the northern  |
+| part of town. Talk to her to find that she's lacking some love. The boy who  |
+| is sitting on the ledge near the Peddler has plenty to spare, so make the    |
+| switcheroo to make her happy again.                                          |
+|______________________________________________________________________________|
+
+ _____________________________________
+| ERRAND #027 - A Woman's Best Friend |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A Hamelin woman is deeply concerned about her pet dog, who      |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ appears to be brokenhearted.                                    |
+|------------------------------------------------------------------------------|
+| GOAL: Restore the dog's love, and rekindle his loyalty.                      |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Cheeseburger x5, [ ] 1500 G                        |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Hamelin, you'll find a woman and her dog near the Cawtermaster's store.   |
+| Her poor pet is dealing with a broken heart, so we need to find love for it. |
+| On the main street in the northern part of Hamelin, there's a large woman    |
+| in the middle of the road who has some to spare, so take hers and give it to |
+| good old Fido.                                                               |
+|______________________________________________________________________________|
+
+ ___________________________
+| ERRAND #028 - Cold as Ice |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A Yule man suddenly finds himself unable to care about his      |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ family, even though his child is ill.                           |
+|------------------------------------------------------------------------------|
+| GOAL: Restore his love so that he can be a good father once more.            |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Snowdrop Bonbons x3, [ ] 1500 G                    |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Yule, talk to the man to the west of the Cat's Cradle. He's being a real  |
+| jerk to his family, so we need to find some love to set him back straight.   |
+| Luckily, a kid just a few steps to the right has some, so take the spare and |
+| shove it into the father's heart to bring him back.                          |
+|______________________________________________________________________________|
+
+ ___________________________________
+| ERRAND #038 - A Down-Hearted Wife |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: Once of the traveling merchants is suffering a crisis of        |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ confidence in Perdida. As ever, her husband is at a loss.       |
+|------------------------------------------------------------------------------|
+| GOAL: Restore her confidence and ease their anxieties.                       |
+| UNLOCK REQUIREMENT: Complete Errand #037.                                    |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Tonic, [ ] 1000 G                                  |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Perdida, make your way west of Swift Solutions to find the merchant       |
+| couple once again. This time, the wife needs assistance... well, confidence, |
+| to be exact. No worries; just to the right near Swift Solutions is a woman   |
+| brimming with it, so swipe hers and deliver it to the wife to set things     |
+| straight.                                                                    |
+|______________________________________________________________________________|
+
+ ____________________________________
+| ERRAND #039 - A Cold-Hearted Hubby |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: Since returning to Ding Dong Dell, one of the traveling         |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ merchants no longer feels any love for his poor wife.           |
+|------------------------------------------------------------------------------|
+| GOAL: Restore his love and save his marriage.                                |
+| UNLOCK REQUIREMENT: Complete Errand #038.                                    |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Nostrum, [ ] 1500 G                                |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Ding Dong Dell, after completing the above errand, enter the city and     |
+| look beside the familiar retreat to find the merchant couple once again.     |
+| The husband's being a bit unreasonable, so we need to find love for him so   |
+| this fairy tale marriage keeps on going. Go to the northern section of Ding  |
+| Dong Dell, where you'll find a hopeless romantic with extra love for         |
+| everyone. Take that chunk and return it to the husband so they're back in    |
+| love with each other.                                                        |
+|______________________________________________________________________________|
+
+ _________________________________
+| ERRAND #062 - Out of This World |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A young girl from Perdida wants a flower like those she saw in  |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ a dream. A dream about her soul mate in Motorville.             |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to help the girl.                                                |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 6  | REWARDS: [ ] Carnation Cakes x2, [ ] Wildflower Sundae x2,      |
+| ¯¯¯¯¯¯¯    |          [ ] 2500 G                                             |
+|            | ITEMS: [ ] Hometown Flower                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Perdida, talk the to girl outside of Swift Solutions looking at the       |
+| flowers. She had a dream that turns out to be what's going on in Motorville, |
+| and she wants to see the flowers from there. Use 'Gateway' to switch worlds, |
+| then go to the center of town southeast of Ollie's house. Talk to the girl   |
+| here, then examine the flowers and cast 'Rejuvenate' to bring them back to   |
+| life. Talk to the girl again to receive the [HOMETOWN FLOWER].               |
+|                                                                              |
+| With the flower in hand, return to Perdida and give it to the girl to end    |
+| this errand.                                                                 |
+|______________________________________________________________________________|
+
+ __________________________________
+| ERRAND #063 - Beating a Bad Back |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: An old man in Perdida is suffering from a terrible backache.    |
+| ¯¯¯¯¯¯¯¯¯¯¯¯                                                                 |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to help the old man.                                             |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 7  | REWARDS: [ ] Tonic, [ ] 2500 G                                  |
+| ¯¯¯¯¯¯¯    | ITEMS: [ ] Cold Compress                                        |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Perdida, talk to the man in the center of town who is leaning on a cane   |
+| near the walkway to Swift Solutions. His back is killing him, and he needs   |
+| some more cold compresses to help him. They're made in Yule, so travel over  |
+| there.                                                                       |
+|                                                                              |
+| In Yule, the Tomte you're looking for is standing to the left of the Peddler |
+| to the northeast. He'll give you what you need, but in the meantime, you     |
+| to take out five Manglerfishes out on the World Map. Do so, then return to   |
+| receive the [COLD COMPRESS]. Return it to the old man in Perdida to finish   |
+| this one out.                                                                |
+|______________________________________________________________________________|
+
+ __________________________________
+| ERRAND #064 - The Hungry Llapaca |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A llapaca in Perdida longs to taste something more refined than |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ its customary diet of hay, hay, and more hay.                   |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to help the food-obsessed llapaca.                               |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 6  | REWARDS: [ ] Leech Gem, [ ] 2500 G                              |
+| ¯¯¯¯¯¯¯    | FORMULAE: 017, 022, 027, 032, 037, 042                          |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Perdida, you'll see a Llapaca to your right as soon as you enter. Use the |
+| 'Nature's Tongue' spell to talk to it, and you'll learn that it just wants   |
+| different food to eat. Stop at each of the following cities and buy one of   |
+| each of the following foods (if you don't have them already):                |
+|                                                                              |
+| • Al Mamoon (Babana)                                                         |
+| • Castaway Cove (Glowshrimp)                                                 |
+| • Hamelin (Black Truffle)                                                    |
+| • Yule (Snow Radish)                                                         |
+|                                                                              |
+| After you've fed him all four, you'll receive your reward, as well as a lot  |
+| more formulae!                                                               |
+|______________________________________________________________________________|
+
+ ______________________________
+| ERRAND #074 - More Creatures |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: Derwin has moved on to Perdida in search of more creature data. |
+| ¯¯¯¯¯¯¯¯¯¯¯¯                                                                 |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to help Derwin with his research.                                |
+| UNLOCK REQUIREMENT: Complete errand #073.                                    |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 7  | REWARDS: [ ] Jumbo Moondrops x2, [ ] Jumbo Sundrops x2,         |
+| ¯¯¯¯¯¯¯    |          [ ] 5000 G                                             |
+|            | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Perdida, to your northeast as soon as you enter, is Derwin, and he has a  |
+| a new, excruciatingly painful task for you. He needs a Wispula, a Flash Fry, |
+| and a Trumpy-Pumper. However, you can't catch these; they need to be         |
+| metamorphosed from their weaker forms. (In the listing below, the left one   |
+| is the one he needs, and their evolution steps are to the right:)            |
+|                                                                              |
+| • Wispula <-- Ghost Wisperer (Nevermore) <-- Wisp (Tombstone Trail)          |
+| • Flash Fry <-- Deep Fry (Old Smoky) <-- Small Fry (Old Smoky)               |
+| • Trumpy-Pumper <-- Sharper-Parper (Miasma Marshes) <-- Shonky Honker (Cove) |
+|                                                                              |
+| TIP: The Ghost Wisperer can be tamed in Nevermore later on in the game, if   |
+| ¯¯¯¯ you want to wait and save on evolving the Wisp twice. Same goes for the |
+|      Sharper-Parper in the Miasma Marshes. If you're grinding Tokotokos      |
+|      though, you might as well just get the earlier versions; one fight may  |
+|      be enough to evolve them.                                               |
+|                                                                              |
+| Catch the monsters listed above, then metamorphose them into their stronger  |
+| versions to be able to complete this errand. You'll most likely be doing a   |
+| LOT of grinding of Tokotokos to get this one done quickly.                   |
+|______________________________________________________________________________|
+
+ _________________________
+| BOUNTY #107 - Icy Giant |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A mighty monster is causing avalanches on the Winter Isles, and |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ terrifying Yule's residents. Something must be done!            |
+|------------------------------------------------------------------------------|
+| LAST SEEN: In the Southern Winter Wonderlands (Winter Isles)                 |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 8  | REWARDS: [ ] Bubble Bath Gem x1, [ ] 2500 G                     |
+| ¯¯¯¯¯¯¯    | ENEMIES: Ice Ogrrr (323)                                        |
+|            | SPOILS: 481 EXP, 615 G                                          |
+|____________|_________________________________________________________________|
+|                                                                              |
+| The beast in question is on the frozen lake to the northwest of Yule. Equip  |
+| and fire-based weapons and water-resisting equipment before going.           |
+|                                                                              |
+| Once you're going head to head with the Ice Ogrrr, you'll want to control    |
+| Oliver and spam his fire-based Unleash spell, Volcanic Roar. If that's too   |
+| much of a slow pace for you, then use a familiar that has the Blazing Blade  |
+| equipped and go for a direct assault. Either way, he shouldn't give you too  |
+| much trouble as long as you stay healed.                                     |
+|______________________________________________________________________________|
+
+ ______________________________________
+| BOUNTY #108 - A Kingdom on the Brink |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A particularly vicious monster is heading straight for Ding     |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ Dong Dell. It must be stopped!                                  |
+|------------------------------------------------------------------------------|
+| LAST SEEN: In the Western Rolling Hills (Summerlands)                        |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 8  | REWARDS: [ ] Fiend's Fang, [ ] 2500 G                           |
+| ¯¯¯¯¯¯¯    | ENEMIES: Shellfire (330)                                        |
+|            | SPOILS: 453 EXP, 650 G                                          |
+|____________|_________________________________________________________________|
+|                                                                              |
+| Your target is in the far northwest of the Rolling Hills, in the area west   |
+| of the Deep Dark Wood, so check your map, then make your way over to the     |
+| slow-moving beast.                                                           |
+|                                                                              |
+| For being a menace to Ding Dong Dell, it's actually pretty lackluster. Just  |
+| focus on using normal attacks while doing All-Out Attacks for the rest of    |
+| your party, and if too much damage is being done to you, toss up a Pixie Dew |
+| or two.                                                                      |
+|______________________________________________________________________________|
+
+ ___________________________
+| BOUNTY #109 - Magmadeddon |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: Yet again, a monster has got it into its head to try and make   |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ Old Smoky erupt. Put a stop to this madness once and for all!   |
+|------------------------------------------------------------------------------|
+| LAST SEEN: On Top of Old Smoky (Summerlands)                                 |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 8  | REWARDS: [ ] Heat Ray Gem, [ ] 2500 G                           |
+| ¯¯¯¯¯¯¯    | ENEMIES: Magmadonna (303)                                       |
+|            | SPOILS: 467 EXP, 633 G                                          |
+|____________|_________________________________________________________________|
+|                                                                              |
+| If you have any fire-resisting equipment and/or water based weapons, equip   |
+| them before going.                                                           |
+|                                                                              |
+| As with the last beast trying to get Old Smoky to blow, you'll find the      |
+| culprit on the volcano itself. However, this time you must go all the way to |
+| the summit of the volcano where you fought Moltaan to find her. Fire away    |
+| with water spells and keep your party healed throughout. Her Palava attack   |
+| is more dangerous than it looks; it will hit your whole party for medium to  |
+| major damage, so be sure Defend and use All-Out Defense when you see it      |
+| coming, and be sure to use Pixie Dews and other healing items/spells right   |
+| after it hits.                                                               |
+|______________________________________________________________________________|
+
+
+After you're finished with all of these errands and hunts, it's time to get a
+start on making that Clarion!
 
 
 PROCURING THE CLARION [WLK-6.3]
@@ -6927,15 +7569,6 @@ There are a few more Errands now available that you can complete before moving
 on.
 
 
-***  ERRANDS / BOUNTIES  ***
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
- • Errand #029 - Mamooni Idol
- • Errand #030 - What Fishermen Want
- • Errand #031 - The March of Progress
- • Errand #032 - Llapacking It In
- • Errand #040 - A Change of Heart
-
-
 To Hamelin
 ¯¯¯¯¯¯¯¯¯¯
 Make your way to the palace to talk to Marcassin. Show him the carved wood, and
@@ -6947,8 +7580,125 @@ Before heading off, use the magic circle to be just outside of the palace, then
 talk to the ghostly guard, Abyssinia, again using 'Spirit Medium' to fill her in
 on what happened. She'll thank you by giving you a [GUSTPLUME].
 
-You're just about ready to make your way to the Miasma Marshes, but first, you
-will need to drop by The Deep Dark Wood.
+Now that ambition is available, there are a few more Errands now available that
+you can complete before moving on.
+
+
+***  ERRANDS / BOUNTIES  ***
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • Errand #029 - Mamooni Idol
+ • Errand #030 - What Fishermen Want
+ • Errand #031 - The March of Progress
+ • Errand #032 - Llapacking It In
+ • Errand #040 - A Change of Heart
+
+ ____________________________
+| ERRAND #029 - Mamooni Idol |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A Mamooni woman has given up on her childhood dream of becoming |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ a famous singer.                                                |
+|------------------------------------------------------------------------------|
+| GOAL: Restore her ambition and tell her to follow her dreams!                |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Patty Cake x3, 1500 G                              |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Al Mamoon, make your way to the northern part of town next to the eastern |
+| milk fountain. She wants to sing, but lacks the ambition; luckily, there's a |
+| man walking around the Cawtermaster's store that's full of it, so take his,  |
+| give it to her, and move on.                                                 |
+|______________________________________________________________________________|
+
+ ___________________________________
+| ERRAND #030 - What Fishermen Want |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A Castaway Cove fisherman has started to question his dream of  |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ owning a mighty fleet of fishing vessels.                       |
+|------------------------------------------------------------------------------|
+| GOAL: Restore his ambition so that he can aim high once more.                |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Sprite Dew, [ ] 1500 G                             |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Castaway Cove, make your way to the docks on the eastern side of town and |
+| talk to the man standing near the water at the bottom. He's lost his         |
+| ambition as well, so talk to the boy near the Cat's Cradle and take a lump   |
+| of his swashbuckling ambition to help the fisherman out.                     |
+|                                                                              |
+|                                                                              |
+|______________________________________________________________________________|
+
+ _____________________________________
+| ERRAND #031 - The March of Progress |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A Hamelin researcher has lost sight of the ideals that first    |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ inspired him, and has resolved to abandon his life's work.      |
+|------------------------------------------------------------------------------|
+| GOAL: Restore his ambition so that he can resume his research.               |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Whirly Whirlies Gem, [ ] 1500 G                    |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Hamelin, make your way to the main street on the north side of town, then |
+| talk to the researcher in the southeastern corner once again. He's lacking   |
+| ambition, but there's none to be found here in Hamelin. Travel to The        |
+| Fairyground, where there are actually two different fairies that have some   |
+| to spare. Grab one, then return to Hamelin and deliver it to the researcher  |
+| to make him happy.                                                           |
+|______________________________________________________________________________|
+
+ ________________________________
+| ERRAND #032 - Llapacking It In |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A young boy is about to give up on his dream of becoming the    |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ greatest llapaca herder in Perdida.                             |
+|------------------------------------------------------------------------------|
+| GOAL: Restore the llapaca herder's lost ambition.                            |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] All-Be-Gone x2, [ ] 1500 G                         |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Perdida, the kid taking care of of the llapacas to the right of the       |
+| entrance is having a hard time dealing with what he sees to be as his own    |
+| failure. He needs some ambition, so go to the northernmost section of town   |
+| and talk to the little girl here to borrow some of hers. Take it back to the |
+| boy to earn your reward.                                                     |
+|______________________________________________________________________________|
+
+ _________________________________
+| ERRAND #040 - A Change of Heart |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: With their shop in Ding Dong Dell due to open, one of the       |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ traveling merchants has begun to doubt the whole venture.       |
+|------------------------------------------------------------------------------|
+| GOAL: A full set of missing virtues! Restore her ambition!                   |
+| UNLOCK REQUIREMENT: Complete Errand #039.                                    |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 5  | REWARDS: [ ] Healing Rain Gem, [ ] 1500 G                       |
+| ¯¯¯¯¯¯¯    | FORMULAE: 050, 059, 063, 067, 082, 083, 086, 104, 108, 114,     |
+|            |           115, 118                                              |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Ding Dong Dell, visit the merchant couple near the entrance once again to |
+| find that something is amiss with them, yet again. The wife needs some       |
+| ambition this time to keep going, and since there's none in Ding Dong Dell,  |
+| you need to travel to The Fairyground once again and pick some up there.     |
+| Once you have it, return and dole it out to the wife for the last time, and  |
+| you'll be handsomely rewarded for all of your trouble with quite a few       |
+| formulae in addition to your normal goodies!                                 |
+|______________________________________________________________________________|
+
+TIP: You should have amassed quite a few Stamp Cards by now that you can turn in
+¯¯¯¯ for rewards! I suggest using them for the ultimate reward first, the 'Jack
+     the Giant Killer' reward, as it will give Oliver an awesome boost: +100 to
+     BOTH his HP and MP!
+
+Once those are all done, you'll be just about ready to make your way to the
+Miasma Marshes. But first, you will need to stop by The Deep Dark Wood.
 
 
 To The Deep Dark Wood
@@ -6968,6 +7718,7 @@ Proceed all the way north past Khulan and out the northern side of the city to
 be in a dark valley near the miasma.
 
 
+
 THE MIASMA MARSHES - QUAGMIRE OF CORRUPTION [WLK-6.4]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ITEMS: [ ] Espresso, [ ] Dead Man's Duds, [ ] All-Be-Gone, [ ] Fruit Flan,
@@ -6980,6 +7731,10 @@ ENEMIES: Ex-Girlfiend (282), Slamander (182), Firefry (127),
          Bougie-Woogie (275), Whampire Bat (087), Vileheart (368) (*),
          Vileheart (369) (*)
 ________________________________________________________________________________
+
+TIP: On the map to the Marshes is an enemy that only appears here; the Firefry.
+¯¯¯¯ If you plan on taming one (or want to farm them for their Hocus Focus Gems)
+     then do it now.
 
 There are a couple of enemies outside on the World Map. Other than that, there's
 nothing to worry about, so go on and enter the deadly marshes. Once you're
@@ -7863,6 +8618,10 @@ NOTE: Marcassin has a lesser arsenal of spells compared to Oliver, however,
 
   [Updates on post-clear content, missing errands/bounties will follow soon.]
 
+
+v1.02. 12 February 2013
+-----------------------
+o Various errands have been added to the walkthrough.
 
 v1.01. 07 February 2013
 -----------------------
