@@ -207,7 +207,9 @@ another world to save us all the time.
               
               IV.   CHARACTERS & FAMILIARS [FAM]
                     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-              4.1   Main Characters .................... [FAM-1]
+              4.1   MAIN CHARACTERS .................... [FAM-1]
+              4.2   FAMILIARS .......................... [FAM-2]
+              4.21  Familiar Evolution ................. [FAM-2.1]
 
 
                     VERSION HISTORY
@@ -8609,6 +8611,233 @@ NOTE: Marcassin has a lesser arsenal of spells compared to Oliver, however,
       require 30% less time for cooldown compared to Oliver.
 
 
+                      F  A  M  I  L  I  A  R  S   [FAM-2]
+                      ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+                         FAMILIAR EVOLUTION [FAM-2.1]
+                         ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+   .————.————————————————————————————.   .————.————————————————————————————.
+   |  1 | Little Bighorn             |   |  1 | Whippersnapper             |
+   |  2 | Bighorn                    |   |  2 | Trapper Snapper            |
+   | 3a | Batterhorn                 |   | 3a | Snaptrap                   |
+   | 3b | Splatterhorn               |   | 3b | Claptrap                   |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Purrloiner                 |   |  1 | Sillymander                |
+   |  2 | Cutpurrse                  |   |  2 | Slamander                  |
+   | 3a | Puss in Bouts              |   | 3a | Pyromander                 |
+   | 3b | Puss in Boats              |   | 3b | Petramander                |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Hog-Goblin                 |   |  1 | Oroboros                   |
+   |  2 | Gobfather                  |   |  2 | Chloroboros                |
+   | 3a | Gobspeed                   |   | 3a | Obscuroboros               |
+   | 3b | Gobforsaken                |   | 3b | Fluoroboros                |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Mite                       |   |  1 | Incy                       |
+   |  2 | Mighty Mite                |   |  2 | Wincy                      |
+   | 3a | Dynamite                   |   | 3a | Web Master                 |
+   | 3b | Mermite                    |   | 3b | Weaver Diva                |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Hurly                      |   |  1 | Lagoon Naiad               |
+   |  2 | Burly Hurly                |   |  2 | Sea Naiad                  |
+   | 3a | Herlcules                  |   | 3a | Lesser Spotted Naiad       |
+   | 3b | Hurlabaloo                 |   | 3b | Greater Naiad              |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Ruff                       |   |  1 | Airhead                    |
+   |  2 | Ruffian                    |   |  2 | Beachhead                  |
+   | 3a | Gruffian                   |   | 3a | Fountainhead               |
+   | 3b | Scruffian                  |   | 3b | Thunderhead                |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Rhinosaur                  |   |  1 | Seed Sprite                |
+   |  2 | Rhinosnore                 |   |  2 | Sprout Sprite              |
+   | 3a | Rhinobore                  |   | 3a | Sweetpea Sprite            |
+   | 3b | Rhinosaw                   |   | 3b | Sugarplum Sprite           |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Jabber                     |   |  1 | Toko                       |
+   |  2 | Stabber                    |   |  2 | Tokotoko                   |
+   | 3a | Stabberwocky               |   | 3a | Tokotocold                 |
+   | 3b | Jabberguppy                |   | 3b | Docotoko                   |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Baatender                  |   |  1 | Potty                      |
+   |  2 | Baabarian                  |   |  2 | Jackpotty                  |
+   | 3a | Baabie                     |   | 3a | Crackpot                   |
+   | 3b | Baarndancer                |   | 3b | Hotpot                     |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Sore Boar                  |   |  1 | Plessie                    |
+   |  2 | Crashing Boar              |   |  2 | Messy Plessie              |
+   | 3a | Hyperboar                  |   | 3a | Stressy Plessie            |
+   | 3b | Full Boar                  |   | 3b | Blessy Plessie             |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Inphant                    |   |  1 | Naja                       |
+   |  2 | Psychophant                |   |  2 | Najalisk                   |
+   | 3a | Triumphant                 |   | 3a | Mahanaja                   |
+   | 3b | Hierophant                 |   | 3b | Najapatra                  |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Clubber Cub                |   |  1 | Teeny Bopper               |
+   |  2 | Lubber Cub                 |   |  2 | Big Bopper                 |
+   | 3a | Adamantiger                |   | 3a | Duck-Billed Bopper         |
+   | 3b | Elegantiger                |   | 3b | Unibopper                  |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Thumbelemur                |   |  1 | Dinoceros                  |
+   |  2 | Dumbelemur                 |   |  2 | Destroceros                |
+   | 3a | Aye-Aye Sir                |   | 3a | Demoliceros                |
+   | 3b | Aye-Aye Catcher            |   | 3b | Catastroceros              |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Sasquish                   |   |  1 | Sunshine                   |
+   |  2 | Sasquash                   |   |  2 | Grandsun                   |
+   | 3a | Papa Sasquash              |   | 3a | Wayward Sun                |
+   | 3b | Mama Sasquash              |   | 3b | Godsun                     |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Danglerfish                |   |  1 | Pom Pom                    |
+   |  2 | Stranglerfish              |   |  2 | Pond Pom                   |
+   | 3a | Manglerfish                |   | 3a | Pompeii                    |
+   | 3b | Spanglerfish               |   | 3b | Pomagranite                |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Taddlywink                 |   |  1 | Kipper                     |
+   |  2 | Tadolescent                |   |  2 | Red Napper                 |
+   | 3a | Tadabout                   |   | 3a | Sweet Bream                |
+   | 3b | Tadorable                  |   | 3b | Siestar Fish               |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Splisher                   |   |  1 | Hullaballoon               |
+   |  2 | Splasher                   |   |  2 | Balloonatic                |
+   | 3a | Snapper                    |   | 3a | Hot-Air Balloonatic        |
+   | 3b | Snipper                    |   | 3b | Water Balloonatic          |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Hooray                     |   |  1 | Auroralynx                 |
+   |  2 | Hip-Hooray                 |   |  2 | Umbralynx                  |
+   | 3a | Grimray                    |   | 3a | Astralynk                  |
+   | 3b | Springray                  |   | 3b | Dualynx                    |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Sparkee                    |   |  1 | Shonky-Honker              |
+   |  2 | Wattee                     |   |  2 | Sharper-Parper             |
+   | 3a | Acee                       |   | 3a | Trumpy-Pumper              |
+   | 3b | Deecee                     |   | 3b | Honky-Tonker               |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Minor Byrde                |   |  1 | Ice Maiden                 |
+   |  2 | Major Byrde                |   |  2 | Ice Queen                  |
+   | 3a | Firebyrde                  |   | 3a | Eldritch Empress           |
+   | 3b | Thunderbyrde               |   | 3b | Sinister Sovereign         |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Crowhawk                   |   |  1 | Lightshade                 |
+   |  2 | Mohawk                     |   |  2 | Sunshade                   |
+   | 3a | Prohawk                    |   | 3a | Starshade                  |
+   | 3b | Snowhawk                   |   | 3b | Nightshade                 |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Whambat                    |   |  1 | Shrimpaler                 |
+   |  2 | Wishing Whambat            |   |  2 | Impaler                    |
+   | 3a | Whampire Bat               |   | 3a | Grimpaler                  |
+   | 3b | Captain Whamtastic         |   | 3b | Hymnpaler                  |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Sleepeafowl                |   |  1 | Relixx                     |
+   |  2 | Hippeafowl                 |   |  2 | Electrixx                  |
+   | 3a | Grumpeafowl                |   | 3a | Medixx                     |
+   | 3b | Wimpeafowl                 |   | 3b | Angelixx                   |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Drongo                     |   |  1 | Boggly-Boo                 |
+   |  2 | Strongo                    |   |  2 | Bigger-Boggle              |
+   | 3a | Flurongo                   |   | 3a | Hoggle-Boggle              |
+   | 3b | Electrongo                 |   | 3b | Moggle-Boggle              |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Fightingale                |   |  1 | Bougie                     |
+   |  2 | Knightingale               |   |  2 | Boo-Bougie                 |
+   | 3a | Paladin Partridge          |   | 3a | Bougie-Woogie              |
+   | 3b | Bushido Bantam             |   | 3b | Bougieman                  |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Tu-Whit                    |   |  1 | Wisp                       |
+   |  2 | Tu-Whoo                    |   |  2 | Ghost Wisperer             |
+   | 3a | Sharp-Hooter               |   | 3a | Kill-o'-the-Wisp           |
+   | 3b | Hooting-Star               |   | 3b | Wispula                    |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Floret                     |   |  1 | Girlfiend                  |
+   |  2 | Flummox Floret             |   |  2 | Ex-Girlfiend               |
+   | 3a | Horrid Floret              |   | 3a | Phantasma                  |
+   | 3b | Florid Floret              |   | 3b | Grandamned                 |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Rabbot                     |   |  1 | Bonehead                   |
+   |  2 | Jackrabbot                 |   |  2 | Bone Ranger                |
+   | 3a | Whackrabbot                |   | 3a | Bone Brigadier             |
+   | 3b | Hackrabbot                 |   | 3b | Bone Baron                 |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Tyke                       |   |  1 | Zombo                      |
+   |  2 | Spike Tyke                 |   |  2 | Zomboatswain               |
+   | 3a | Psych Tyke                 |   | 3a | Cap'n Zombo                |
+   | 3b | Pike Tyke                  |   | 3b | Mumbo Zombo                |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Turbandit                  |   |  1 | Eggroll                    |
+   |  2 | Turburn                    |   |  2 | Scrambled Eggroll          |
+   | 3a | Turban Myth                |   | 3a | Humpty Bumpty              |
+   | 3b | Turban Legend              |   | 3b | Eggyptian                  |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Idler                      |   |  1 | Mandragorer                |
+   |  2 | Wild Idler                 |   |  2 | Pandoragorer               |
+   | 3a | All-Seeing Idler           |   | 3a | Mendragorer                |
+   | 3b | Evil Idler                 |   | 3b | Tundragorer                |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Small Fry                  |   |  1 | Toko (golden)              |
+   |  2 | Deep Fry                   |   |  2 | Tokotoko (golden)          |
+   | 3a | Firefry                    |   | 3a | Tokotocold (golden)        |
+   | 3b | Flash Fry                  |   | 3b | Docotoko (golden)          |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Dinkey                     |   |  1 | Draggle (golden)           |
+   |  2 | Turnkey                    |   |  2 | Dragette (golden)          |
+   | 3a | Master Key                 |   | 3a | Dragamuffin (golden)       |
+   | 3b | Don Key                    |   | 3b | Bedraggle (golden)         |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Spitoo                     |   |  1 | Teeny Bopper (golden)      |
+   |  2 | Spitooligan                |   |  2 | Big Bopper (golden)        |
+   | 3a | Lickety-Spitoo             |   | 3a | Duck-Billed Bopper (golden)|
+   | 3b | Sniper Spitoo              |   | 3b | Unibopper (golden)         |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Monolith                   |   |  1 | Inphant (golden)           |
+   |  2 | Megalith                   |   |  2 | Psychophant (golden)       |
+   | 3a | Pleolith                   |   | 3a | Triumphant (golden)        |
+   | 3b | Neolith                    |   | 3b | Hierophant (golden)        |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Sprog Cog                  |   |  1 | Tin-Man (golden)           |
+   |  2 | Hot Cog                    |   |  2 | Iron-Man (golden)          |
+   | 3a | Supercogductor             |   | 3a | Steam-Man (golden)         |
+   | 3b | Cogdenser                  |   | 3b | Beam-Man (golden)          |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Tin-Man                    |   |  1 | Hog-Goblin (golden)        |
+   |  2 | Iron-Man                   |   |  2 | Gobfather (golden)         |
+   | 3a | Steam-Man                  |   | 3a | Gobspeed (golden)          |
+   | 3b | Beam-Man                   |   | 3b | Gobforsaken (golden)       |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Clinkeyclank               |   |  1 | Shonky-Honker (golden)     |
+   |  2 | Clinkeyclank Mk.2          |   |  2 | Sharper-Parper (golden)    |
+   | 3a | Clinkeyclank LX            |   | 3a | Trumpy-Pumper (golden)     |
+   | 3b | Clinkeyclank DX            |   | 3b | Honky-Tonker (golden)      |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Fuddy-Daddy                |   |  1 | Draggle (golden)           |
+   |  2 | Big Daddy                  |   |  2 | Dragette (golden)          |
+   | 3a | Grand-Daddy                |   | 3a | Dragamuffin (golden)       |
+   | 3b | Baddy-Daddy                |   | 3b | Bedraggle (golden)         |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Lumberwood                 |   |  1 | Sapdragon                  |
+   |  2 | Limberwood                 |   |  2 | Flapdragon                 |
+   | 3a | Umberwood                  |   | 3a | Scrapdragon                |
+   | 3b | Wildwood                   |   | 3b | Napdragon                  |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Bubbud                     |   |  1 | Mite (golden)              |
+   |  2 | Sponge Bubbud              |   |  2 | Mighty Mite (golden)       |
+   | 3a | Lotus Bubbud               |   | 3a | Dynamite (golden)          |
+   | 3b | Tropical Bubbud            |   | 3b | Mermite (golden)           |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Green Buncher              |   |  1 | Hurly (golden)             |
+   |  2 | Yellow Buncher             |   |  2 | Burly Hurly (golden)       |
+   | 3a | Underripe Buncher          |   | 3a | Hurlcules (golden)         |
+   | 3b | Overripe Buncher           |   | 3b | Hurlabaloo (golden)        |
+   |————|————————————————————————————|   |————|————————————————————————————|
+   |  1 | Napcap                     |   |  1 | Drongo (golden)            |
+   |  2 | Duncecap                   |   |  2 | Strongo (golden)           |
+   | 3a | Madcap                     |   | 3a | Fluorongo (golden)         |
+   | 3b | Nightcap                   |   | 3b | Electrongo (golden)        |
+   |————|————————————————————————————|   '————'————————————————————————————'
+   |  1 | Worker Bumbler             |
+   |  2 | Drone Bumbler              |
+   | 3a | Soldier Bumbler            |
+   | 3b | Queen Bumbler              |
+   '————'————————————————————————————'
+
 
     __   _____ ___  ___ ___ ___  _  _   _  _ ___ ___ _____ ___  _____   __
     \ \ / / __| _ \/ __|_ _/ _ \| \| | | || |_ _/ __|_   _/ _ \| _ \ \ / /
@@ -8618,6 +8847,10 @@ NOTE: Marcassin has a lesser arsenal of spells compared to Oliver, however,
 
   [Updates on post-clear content, missing errands/bounties will follow soon.]
 
+
+v1.03. 13 February 2013
+-----------------------
+o Added familiar evolution table.
 
 v1.02. 12 February 2013
 -----------------------
