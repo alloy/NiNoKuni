@@ -48,7 +48,7 @@ The modern age has shaped a landscape in which spaces have been created that
 allow people to tell narratives in different ways. Movies and TV-series are
 but examples of the wide diversity of media that emerged in the 20th century.
 The space in which video games shine has only opened up in recent decades and
-by the looks of its main stream of output appears to be in it's puberty.
+by the looks of its main stream of output appears to be in its puberty.
 
 It opens up fantastic possibilities to craft narratives in ways unseen before
 and it's wonderful to witness every once in a while a game that makes full use
@@ -56,7 +56,7 @@ of the semantic potential that the videogame medium contains deep down; an
 ability to shape a whole unique lifeworld in which one can dwell and live.
 
 That is exactly what Ni no Kuni manages to do. Playing such a videogame means
-nothing other than merging your regular 'lifeworld' with an other lifeworld, in
+nothing other than merging your regular 'lifeworld' with another lifeworld, in
 this case a world fully created by human beings. This differs from reading a
 book or watching a movie in an important sense, namely that the subject's free
 will literally start playing a role; one gets the feeling of *exploring* a
@@ -103,7 +103,7 @@ Steve & Johnathan
                 • If you found this guide helpful, feel free
                   to consider one of these options to donate:
 
-                • 1. Paypal donation at: faq@shillatime.org
+                • 1. PayPal donation at: faq@shillatime.org
                      Or at:              FAQ@jFAQ.us
                                          ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
                 • 2. Make a purchase at Amazon.com by searching
@@ -155,7 +155,7 @@ another world to save us all the time.
               2.15  Ding Dong Well ..................... [WLK-1.5]
               2.16  Ding Dong Dell (Bounties & Errands)  [WLK-1.6]
               2.17  Golden Grove ....................... [WLK-1.7]
-              
+
               2.2   THE SOUTHERN SUMMERLANDS ........... [WLK-2]
               2.21  Exploring Shimmering Sands (part 1)  [WLK-2.1]
               2.22  Al Mamoon .......................... [WLK-2.2]
@@ -166,7 +166,7 @@ another world to save us all the time.
               2.27  Al Mamoon (Loose Ends) ............. [WLK-2.7]
               2.28  Castaway Cove ...................... [WLK-2.8]
               2.29  Permission to sail, your Moojesty?   [WLK-2.9]
-              
+
               2.3   THE SPARKLING SEAS ................. [WLK-3]
               2.31  The Southern Isles (Exploration) ... [WLK-3.1]
               2.32  Sailing to Autumnia (and Teeheeti)   [WLK-3.2]
@@ -177,11 +177,11 @@ another world to save us all the time.
               2.41  Exploring the Pig-Iron Plain ....... [WLK-4.1]
               2.42  Hamelin ............................ [WLK-4.2]
               2.43  The Tombstone Trail ................ [WLK-4.3]
-              2.44  Optional Worldmap Exploration ...... [WLK-4.4]
+              2.44  Optional World Map Exploration ..... [WLK-4.4]
               2.45  The Skull Mountain ................. [WLK-4.5]
 
               2.5   SEARCH FOR THE MAGIC STONES ........ [WLK-5]
-              2.51  Worldmap Exploration with Tengri ... [WLK-5.1]
+              2.51  World Map Exploration with Tengri .. [WLK-5.1]
               2.52  The Vault of Tears ................. [WLK-5.2]
               2.53  The Black Porpoise ................. [WLK-5.3]
               2.54  The Winter Wonderlands (Exploration) [WLK-5.4]
@@ -197,14 +197,17 @@ another world to save us all the time.
 
               2.7   WRATH OF THE WHITE WITCH ........... [WLK-7]
               2.71  Restoring the Kingdoms ............. [WLK-7.1]
-              2.72  The Ivory Tower .................... [WLK-7.2]
+              2.72  Nazcaä (Bounties & Errands)......... [WLK-7.2]
+              2.73  The Ivory Tower .................... [WLK-7.3]
 
 
               III.  ITEMS & EQUIPMENT [ITM]
                     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
               3.1   Unique Items & Missables ........... [ITM-1]
+              3.2   Old Father Oak's Rewards ........... [ITM-2]
+              3.3   Merit Awards........................ [ITM-3]
 
-              
+
               IV.   CHARACTERS & FAMILIARS [FAM]
                     ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
               4.1   MAIN CHARACTERS .................... [FAM-1]
@@ -354,8 +357,6 @@ another world to save us all the time.
    of a virtue; their souls will be highlighted on the Mini Map, so be sure
    collect their pieces of heart.
 
- • <#09, MISSING>
-
  • About the Main Menu - Pressing TRIANGLE will access the Main Menu. From
    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   there, just use the D-Pad and the CROSS button to make
                          your choices, and CIRCLE to exit altogether.
@@ -387,8 +388,8 @@ another world to save us all the time.
 
                                  TIPS [BSC-3]
                                  ¯¯¯¯¯¯¯¯¯¯¯¯
- • "Perfect" Gamesave - Unique Items - If you are interested in maximizing
-   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   the entire inventory in Ni no Kuni, you
+ • "Perfect" Game save - Unique Items - If you are interested in maximizing
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   the entire inventory in Ni no Kuni, you
    will want to consult the small section [ITM-1] to see which items are
    permanently missable and what you must watch out for to keep the potential
    for a "perfect save file. Regular players may skip this section.
@@ -424,7 +425,7 @@ another world to save us all the time.
 
  • Approaching Enemies - Ni no Kuni features semi-random battles, and you'll be
    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   able to spot creatures from far away, especially on the
-   world map, which gives you the opportunity to approach them from behind or
+   World Map, which gives you the opportunity to approach them from behind or
    avoid them altogether. If you manage to sneak up on your enemy, you'll have
    the upper hand in battle, essentially giving you a free round of attacks.
    But if an enemy ambushes you (approaches you from behind), then they will be
@@ -434,17 +435,17 @@ another world to save us all the time.
    face it like a man; that way you won't have to deal with ambushes.
 
  • Stunning Enemies - There are times when you'll want to avoid enemies on the
-   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   world map, especially when you're exploring an island
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   World Map, especially when you're exploring an island
    that you aren't really supposed to explore to get collect some really nice
    treasures. In such cases it's good to know that there's a little trick that
    might just save your hide once or twice. Whenever you pick up a (hidden)
-   treasure on the world map, including the ones from forage points, enemies
+   treasure on the World Map, including the ones from forage points, enemies
    are briefly stunned. This is to grant you time to pick up the item. However,
    the stun lasts slightly longer than the instant Oliver himself is immobile.
    Don't cancel the text box; simply run away in the direction you want to
-   move, giving you a small headstart.
-   
-   This trick can also be performed by talking to Drippy on the world map, but
+   move, giving you a small head start.
+
+   This trick can also be performed by talking to Drippy on the World Map, but
    that requires a little more skill. Nonetheless, since Drippy is almost always
    available, there's plenty enough room for practice!
 
@@ -452,7 +453,7 @@ another world to save us all the time.
    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   can be place: five elemental affinities, and Physical
    damage. The elements are Fire, Water, Storm, Light and Darkness. If you
    manage to exploit an enemy's elemental weakness, you'll do roughly +50%
-   damage, indicated by orange numbes. If an enemy resists the element you're
+   damage, indicated by orange numbers. If an enemy resists the element you're
    using, blue figures will mark this. Be sure to consult this walkthrough for
    tips on when to exploit creature's elemental weaknesses. You can use skills
    that are element-laden, but there are also weapons with this feature.
@@ -560,12 +561,12 @@ another world to save us all the time.
    attempt this anyway.
 
  • Glims on the battlefield - As you're fighting off enemies, green and blue
-   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   glims will occassionally appear. The green ones
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   glims will occasionally appear. The green ones
    heal a small portion of your HP while the blue ones heal some of your
    MP. It's a good idea to grab these whenever possible so you can save your
    precious healing items.
 
- • Golden Glims & Miracle Moves - When you've performed reasonably well in a 
+ • Golden Glims & Miracle Moves - When you've performed reasonably well in a
    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   battle - usually longer boss battles - you
    might find a golden glim on the battlefield. Be sure to immediately collect
    these, since they don't hang around forever. It'll complete restore your
@@ -595,7 +596,7 @@ another world to save us all the time.
    defeated. If there are any glims nearby, you'll still have a second or so
    left to grab these, granting you free HP and MP.
 
- • Keeping 'em imprisoned - Once you get your second teammember it becomes
+ • Keeping 'em imprisoned - Once you get your second team member it becomes
    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   possible to catch familiars. Be sure to do so
    whenever the opportunity arises! You never know when the beasties may come
    in handy, during the various errands of the game for example.
@@ -616,14 +617,14 @@ another world to save us all the time.
 
  • Healing up - It's a good idea to keep your health high at all times. An
    ¯¯¯¯¯¯¯¯¯¯   additional reason for this is that your MP bar tends to be
-   full(er) if you refrain from using powerful magic against regular foes;
+   (more) full if you refrain from using powerful magic against regular foes;
    these still drop MP glims, however, which would go to waste if you're already
    powered up magic-wise.
 
- • Errands (sidequests) - Once you reach the first town in Another World, you'll
-   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    be able to run errands for several citizens. You can
-   start an errand either by heading to Swift Solutions (in which errands and
-   bounties are sorted all together), or by speaking to individual citizens
+ • Errands (side quests) - Once you reach the first town in Another World, you
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯    will be able to run errands for several citizens. You
+   can start an errand either by heading to Swift Solutions (in which errands
+   and bounties are sorted all together), or by speaking to individual citizens
    themselves. The rewards vary, but as a rule of thumb it's always best to do
    errands as soon as they become available, because your compensation won't be
    so rewarding when you complete them later in the game.
@@ -649,12 +650,12 @@ another world to save us all the time.
    lists all possible recipes for you.
 
  • Twinkling Forage Locations - These twinkling stars are markers for spots on
-   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   the world map that contain items. They're not
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   the World Map that contain items. They're not
    quite the same as hidden treasures, because these twinkling locations will
    recover their treasure over time. Come back after a while to harvest more.
 
  • (Hidden) Treasures on the World Map - There are many treasures to be found on
-   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   the world map. If you find 100 of them,
+   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   the World Map. If you find 100 of them,
    you'll be awarded a Silver Trophy, but the treasures themselves are usually
    worth your trouble by themselves. You'll eventually get a spell that makes
    the hidden treasures visible, but it's advisable to follow this walkthrough
@@ -663,7 +664,7 @@ another world to save us all the time.
 
  • (Hidden) World Map Locations - We've gone over hidden treasures, but like a
    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯   proper J-RPG, Ni no Kuni also features hidden
-   locations on the world map. Hints are usually given in the game by NPC's or
+   locations on the World Map. Hints are usually given in the game by NPC's or
    in some other fashion, and this walkthrough will leave none of them
    unexplored. Regardless, there are roughly two types of hidden areas: forest
    zones and caves. Carefully search forests and explore mountains to see if you
@@ -676,8 +677,8 @@ another world to save us all the time.
    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯   bonuses against specific elemental attacks and status
    ailments. But there's more. The Sun - Moon - Star triangle is especially
    important to memorize: Sun beats Moon beats Star beast Sun. When a sign beats
-   an other sign, it means the familiar deals +20% to that enemy. However, if
-   a sign loses from an other sign (such as, Sun loses from Star), then that
+   another sign, it means the familiar deals +20% to that enemy. However, if
+   a sign loses from another sign (such as, Sun loses from Star), then that
    Sun familiar deals -20% to the Star familiar (while the Star enemy deals +20%
    damage to your familiar).
 
@@ -710,7 +711,7 @@ another world to save us all the time.
    'reserves' which you can select from the menu when you're not in a battle.
    The three active familiars - the ones selectable in battle - will always
    receive the full battle experience spoils, so it's an excellent idea to have
-   a strong familiar that you use often, level up an other familiar or two in
+   a strong familiar that you use often, level up another familiar or two in
    the other slots.
 
  • Feeding Familiars - You can feed familiars treats, which boost their primary
@@ -943,8 +944,13 @@ another world to save us all the time.
          ________________________________________________________[WLK]
 
 
-   S E C T I O N  O N E:  E N T E R I N G   A N O T H E R   W O R L D [WLK-1]
-   ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+|   \ |  \ | |  / |                            S E C T I O N   O N E   [WLK-1] |
+|  .  | .  | . <  |————————————————————————————————————————————————————————————|
+| _|\_|_|\_|_|\_\ |               E N T E R I N G   A N O T H E R   W O R L D  |
+|_________________|____________________________________________________________|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
 MOTORVILLE [WLK-1.1]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -1018,7 +1024,7 @@ are quite a few items that can be had here on the World Map... However, let us
 make a quick stop at our destination first... after grabbing a couple of quick
 treasures!
 
-TIP: You can view the world map by pressing R1. This should help with finding
+TIP: You can view the World Map by pressing R1. This should help with finding
 ¯¯¯¯ treasures and specific locations.
 
 IMPORTANT: An * indicates a twinkling forage point; these restore their contents
@@ -1118,7 +1124,7 @@ ENEMIES: Teeny Bopper, Whippersnapper, Jabber, Spitoo, Guardian of the Woods (*)
 ¯¯¯¯¯¯¯¯
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
-As you enter, you'll learn about waystones, which will not only recover your
+As you enter, you'll learn about Waystones, which will not only recover your
 HP and MP upon examining it, but it will also allow you to save your game. There
 is also a plate on the ground next to it, but we can't do anything with it yet.
 Save, then follow Drippy to the northeast and continue down the trail past
@@ -1177,7 +1183,7 @@ Guardian of the Woods! Yikes!
   REWARDS: 90 EXP, 75 G, Spirit of the Woods
   ¯¯¯¯¯¯¯¯
   VIDEO: http://tinyurl.com/arl9xlj
-  ¯¯¯¯¯¯ 
+  ¯¯¯¯¯¯
 Even though you can use the Mite to fight for you, it is recommended staying as
 Oliver; his Fireball spell will do more damage much more quickly than the little
 familiar can dish out.
@@ -1268,8 +1274,8 @@ your way northwest, but before going through the archway, check the urn to the
 left of the arch for [5 - 15 G]. Now go through the arch for a scene, where
 you'll decide that you need a new outfit. Just to the north and east of where
 you are is the Hootique, so stop in and talk to Hootenanny. She does have some,
-but you'll have to wait til the morning before you can get it, so now's the time
-to check out elsewhere.
+but you'll have to wait until the morning before you can get it, so now's the
+time to check out elsewhere.
 
 First stop will be Swift Solutions; it's to your south and west. Inside, you'll
 learn about different tasks that you can take on, as well as different bounty
@@ -1402,7 +1408,6 @@ NOTE: Whenever new tasks or bounties appear, and they are able to be (easily)
 |------------.-----------------------------------------------------------------|
 | STAMPS: 2  | REWARDS: [ ] Well Worn Sword, [ ] 50 G                          |
 | ¯¯¯¯¯¯¯    | ENEMIES: Gruffian, Ruff                                         |
-|            | SPOILS: 30 EXP, 25 G                                            |
 |____________|_________________________________________________________________|
 |                                                                              |
 | Being the first Bounty Hunt, it's extremely easy. Just leave Ding Dong Dell, |
@@ -1485,7 +1490,7 @@ boy with the broom, then use 'Take Heart' to get his extra enthusiasm.
 With that in hand, make your way back to the palace and talk to the King once
 more, choosing 'Give Heart' when the Spell Menu pops up to finally bring King
 Tom back to his normal self. He will reward you with his wand--once he finds
-it--but in the mean time, you'll receive the [SPRING LOCK] spell and the
+it--but in the meantime, you'll receive the [SPRING LOCK] spell and the
 [REJUVENATE] spell from him.
 
 Travel back to the south end of Ding Dong Dell. First, stop inside the Hootique
@@ -1763,7 +1768,6 @@ NOTE: After completing this new set of Errands and Bounties, you can afford to
 |------------.-----------------------------------------------------------------|
 | STAMPS: 2  | REWARDS: [ ] Salted Ice Cream x4, [ ] 80 G                      |
 | ¯¯¯¯¯¯¯    | ENEMIES: Grumpeafowl, Sleepeafowl                               |
-|            | SPOILS: 24 EXP, 45 G                                            |
 |____________|_________________________________________________________________|
 |                                                                              |
 | Out on the World Map, you'll see your target to the far west of Ding Dong    |
@@ -1771,7 +1775,7 @@ NOTE: After completing this new set of Errands and Bounties, you can afford to
 |                                                                              |
 | Start off by casting Frostbite on each of the Sleepeafowls to dish some      |
 | major damage to them, followed by switching to your Thumbelemur to take them |
-| out, thatway they don't put you to sleep and give themselves a chance to     |
+| out, that way they don't put you to sleep and give themselves a chance to    |
 | gang up on you. Once you have those annoyances out of the way, let your      |
 | familiar ravage the last of the fowls until he falls.                        |
 |______________________________________________________________________________|
@@ -1863,11 +1867,11 @@ and the little guy will finally join your party!
 
 With the new Seed Sprite, you can now Evade attacks, and you'll also be given a
 lesson on counterattacking. Make sure to equip the newly found Hoarfrost Harpoon
-on the Seed Sprite. That should be it here here in the forest for now, so go
-ahead and make your way back to the last fork and make your way south. You'll
-come to some small mushrooms that you can't climb, but with that new spell, you
-can make them big enough to climb! Open your Spell Menu and choose 'Quicken
-Growth' and you'll be able to climb them.
+on the Seed Sprite. That should be it here in the forest for now, so go ahead
+and make your way back to the last fork and make your way south. You'll come to
+some small mushrooms that you can't climb, but with that new spell, you can make
+them big enough to climb! Open your Spell Menu and choose 'Quicken Growth' and
+you'll be able to climb them.
 
 Keep following along, and as the path turns east, you'll come to another
 Waystone (as well as a purple chest that can't be opened yet,) so be sure to
@@ -1940,7 +1944,12 @@ Once you have those, head south to be back out onto the World Map, but this
 time, in the Shimmering Sands!
 
 
- S E C T I O N  T W O:  T H E   S O U T H E R N   S U M M E R L A N D S [WLK-2]
+ ______________________________________________________________________________
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+|   \ |  \ | |  / |                            S E C T I O N   T W O   [WLK-2] |
+|  .  | .  | . <  |————————————————————————————————————————————————————————————|
+| _|\_|_|\_|_|\_\ |           T H E   S O U T H E R N   S U M M E R L A N D S  |
+|_________________|____________________________________________________________|
  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
 WORLD MAP EXPLORATION - SHIMMERING SANDS [WLK-2.1]
@@ -1975,7 +1984,7 @@ and if possible avoid (or sneak up on) enemies.
    there and search the crevice on the far left side to find [GLOWCAP x2].
 
  * Further south of the entrance of the desert (and south of some quicksand) is
-   another set of twinkling stars near a large stone and some cactii; examine
+   another set of twinkling stars near a large stone and some cacti; examine
    them for a [BANEFLOWER].
 
  • To the far south of the rock you are at now is a set of two large rocks; a
@@ -2033,7 +2042,7 @@ ENEMIES: Rusty's Nightmare (*)
 |   150 G | Fluffy Rice                ||         |                            |
 '——————————————————————————————————————''——————————————————————————————————————'
 
-Watch the scene as you enter, then you'll have to start your search for Rashad.
+Watch the scene as you enter, then you'll have to start your search for Rashaad.
 First, check near the entrance on the other side of the area on your right; you
 should see a chest sitting near the "window" of sorts with [WHITE BREAD x3].
 Further to the right, you'll see a twinkling urn; examine it for another loaf of
@@ -2072,7 +2081,7 @@ to the right; use your 'Spirit Medium' spell to talk to him, and he'll give you
 [THE FIRST TALE] of Wonder for your Wizard's Companion. Go ahead and read it
 really quick by taking a look at it in your menu, then talk to Horace again to
 have him give you a riddle. He'll ask you who the third smallest of the
-characters were; the answer is 'DRAGON OF THE WEST', so type that all out to
+characters were; the answer is 'Dragon of the West', so type that all out to
 receive the [DRAW POISON] spell from him.
 
 There are some Errands and Bounties we can partake in, but for now, hold off on
@@ -2144,7 +2153,7 @@ heartwarming events inside the house, and you'll eventually regain control back
 outside, ready to take some of Myrtle's newfound courage! Use 'Take Heart' to
 get and store some courage in your Locket.
 
-After you have that, go ahead and cast 'Gateway' to retrun to Al Mamoon.
+After you have that, go ahead and cast 'Gateway' to return to Al Mamoon.
 
 
 Back to Al Mamoon
@@ -2184,8 +2193,8 @@ and talk to the Taskmaster to discover new Bounty Hunts.
 
 NOTE: As you leave the city, you'll have another tutorial from Drippy on how
 ¯¯¯¯¯ to fight together with Esther. We recommend setting your AI to where
-      both of your party members attack the same target. 
-      
+      both of your party members attack the same target.
+
       While you're out here Bounty Hunting and running Errands, you may
       want to reference the next section below regarding the World Map of this
       area, so you can gather treasure while you are traversing various areas
@@ -2399,14 +2408,14 @@ them.
 |                                                                              |
 | Now, the last ingredient that you need is the spicy seed, and you need       |
 | three of them. The only place to find them (and this is a one-time deal) is  |
-| to the west-southwest of Al Mamoon in the Smoky Moutains. Climb the path     |
+| to the west-southwest of Al Mamoon in the Smoky Mountains. Climb the path    |
 | toward the volcano, and along the way, you'll come across three sets         |
 | twinkling stars as you get closer to the mountain itself. The first pinch    |
 | of [SPICY SEEDS] will be at the corner where the path turns west; the        |
 | second pinch of [SPICY SEEDS] will be to the west near the river of lava,    |
 | and the third pinch of [SPICY SEEDS] will be all the way to the west near a  |
 | stream of lava. To get the third one you'll need the Bridge spell, which     |
-| you aqcuire at the Temple of Trials.                                         |
+| you acquire at the Temple of Trials.                                         |
 |                                                                              |
 | Once you have those, return to Al Mamoon. Stop in at Swift Solutions first   |
 | and claim your prize, [MILK CHOCOLATE x5] and [200G], ending Bounty #088.    |
@@ -2446,8 +2455,8 @@ them.
 | [100 G].                                                                     |
 |______________________________________________________________________________|
 
- ________________________________
-| BOUNTY #088 -  A Precious Root |
+ _______________________________
+| BOUNTY #088 - A Precious Root |
 |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
 | DESCRIPTION: A lumberwood has appeared to the south of Golden Grove. These   |
 | ¯¯¯¯¯¯¯¯¯¯¯¯ creatures' roots always fetch a decent price...                 |
@@ -2457,7 +2466,6 @@ them.
 |------------.-----------------------------------------------------------------|
 | STAMPS: 2  | REWARDS: [ ] Milk Chocolate x5, [ ] 200 G                       |
 | ¯¯¯¯¯¯¯    | ENEMIES: Lumberwood                                             |
-|            | SPOILS:  62 EXP, 47 G, [ ] Turmeric Root                        |
 |____________|_________________________________________________________________|
 |                                                                              |
 | VIDEO: http://tinyurl.com/a8hxknt                                            |
@@ -2482,7 +2490,6 @@ them.
 |------------.-----------------------------------------------------------------|
 | STAMPS: 2  | REWARDS: [ ] Shinbone Shield, [ ] 200 G                         |
 | ¯¯¯¯¯¯¯    | ENEMIES: Bone Brigadier, Bonehead                               |
-|            | SPOILS: 90 EXP, 80 G                                            |
 |____________|_________________________________________________________________|
 |                                                                              |
 | Your target is to the north-northeast of Al Mamoon, so hop up there and      |
@@ -2505,7 +2512,6 @@ them.
 |------------.-----------------------------------------------------------------|
 | STAMPS: 3  | REWARDS: [ ] Flame Robes, [ ] 300 G                             |
 | ¯¯¯¯¯¯¯    | ENEMIES: Adamantiger                                            |
-|            | SPOILS: 58 EXP, 125 G                                           |
 |____________|_________________________________________________________________|
 |                                                                              |
 | VIDEO: http://tinyurl.com/a8hxknt                                            |
@@ -2535,7 +2541,7 @@ ITEMS: [ ] Proof of Wits, [ ] Proof of Friendship, [ ] Proof of Strength,
        [ ] Jumbo Sundrops x3, [ ] Jumbo Stardrops x3, [ ] Jumbo Moondrops x3,
        [ ] Jumbo Planetdrops x3
 
-PAGES: [ ] 284-286 (The Sixth Tale), [ ] 207 (Bashura), [ ] 47 (Bridge), 
+PAGES: [ ] 284-286 (The Sixth Tale), [ ] 207 (Bashura), [ ] 47 (Bridge),
 ¯¯¯¯¯¯ [ ] 69 (Broom Broom)
 
 ENEMIES: Bashura (*)
@@ -2628,6 +2634,8 @@ Solomon when you're ready to initiate it.
 
   REWARDS: 435 EXP, 360 G, Spirit of the Temple
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/b87rfzl
+  ¯¯¯¯¯¯
 It's important to know that Bashura is programmed in such a way to only focus on
 the character that you're *not* controlling. This allows you to get a familiar
 to his side - not his back, which has magnificent defense thanks to the gigantic
@@ -2649,7 +2657,7 @@ well as the important [HEART-WINNING HARP].
 Now that you have this harp, Esther can play serenades to seduce creatures into
 becoming your familiar. You're given a tutorial on this in which you'll have to
 select one out of three potential familiars: Shonky-Honker, Boggly-Boo, or a
-Naiad. The Shonky-Honker is an all round familiar and fairly weak early in the
+Naiad. The Shonky-Honker is an all-round familiar and fairly weak early in the
 game, but has the potential to grow out to be the strongest familiar in the game
 in terms of the magical attack stat. Boggly-Boo is a strong attacker which will
 learn elemental attacks, and the Naiad is a familiar that is best used for
@@ -2700,7 +2708,7 @@ TIP: The Great Sage's Secret item is quite useful in (boss) battles, but before
 AL MAMOON - ADDITIONAL EXPLORATION [WLK-2.5]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 You'll now have the opportunity to do several things. You can complete two more
-errands, and there are various treasures on the world map waiting to be found.
+errands, and there are various treasures on the World Map waiting to be found.
 
 NOTE: Now is also your last chance to backtrack and tell Old Father Oak about
 ¯¯¯¯¯ your adventure so far.  It's a rather long road to backtrack, and (this
@@ -2786,7 +2794,7 @@ ENEMIES: Tu-Whit, Turburn, Shonky-Honker, Floret, Turbandit, Small Fry,
 ________________________________________________________________________________
 
 In case you haven't done so by yourself already, there are several more
-treasures for you to find in the Shimmering Sands. The previous world map
+treasures for you to find in the Shimmering Sands. The previous World Map
 exploration (of this area) yielded five treasures in the northwest and west
 regions of the area. We'll now be exploring the rest (as far as possible).
 
@@ -2799,7 +2807,7 @@ regions of the area. We'll now be exploring the rest (as far as possible).
    Search the place around the plants to find [CARROT CAKE x2].
 
  * To the east of Al Mamoon, and slightly northwest of the large rock as
-   indicated on your world map (although there are several rocks that are not
+   indicated on your World Map (although there are several rocks that are not
    displayed on the map) you can find some twinkling stars that net a [GLOWCAP].
 
  • In the far northeast corner of the desert, search the area near the plants
@@ -2925,7 +2933,7 @@ for you to take on!
   REWARDS: 650 EXP, 420 G, Spirit of the Flame.
   ¯¯¯¯¯¯¯¯
   VIDEO: http://tinyurl.com/auc3q8z
-  ¯¯¯¯¯¯ 
+  ¯¯¯¯¯¯
 You'll want to stay as Oliver in this battle, spamming your Frostbite spell
 against Moltaan. Stay to the far edge of the field while firing off that spell,
 and don't worry too much about your HP; Esther should keep your HP up. If your
@@ -2989,6 +2997,8 @@ errands board reveals that one new errand can now be done as well.
 | ¯¯¯¯¯¯¯    | ITEMS: [ ] Traveler's Diary                                     |
 |____________|_________________________________________________________________|
 |                                                                              |
+| VIDEO: http://tinyurl.com/d28hb26                                            |
+| ¯¯¯¯¯¯                                                                       |
 | Speak with the rich man located to your immediate left as you enter the      |
 | town square of Al Mamoon, and you should recognize him as the traveler from  |
 | Ding Dong Dell. Looks like he lost his diary again, so off you go.           |
@@ -3011,9 +3021,10 @@ errands board reveals that one new errand can now be done as well.
 |------------.-----------------------------------------------------------------|
 | STAMPS: 3  | REWARDS: [ ] Fishburger x4, [ ] 400 G                           |
 | ¯¯¯¯¯¯¯    | ENEMIES: Hog-Goblin, Gobspeed                                   |
-|            | SPOILS: 182 EXP, 109 G                                          |
 |____________|_________________________________________________________________|
 |                                                                              |
+| VIDEO: http://tinyurl.com/d28hb26                                            |
+| ¯¯¯¯¯¯                                                                       |
 | This bounty is located to the far south, in the grassy area near Castaway    |
 | Cove. More specifically, you'll need to create a bridge (with the 'Bridge'   |
 | spell) to travel to the east part of the area, where it resides on a hill to |
@@ -3025,13 +3036,13 @@ errands board reveals that one new errand can now be done as well.
 | such as the Burning Blade (among other things).                              |
 |                                                                              |
 | Your first priority should be to take out one of the Hog-Goblins, but don't  |
-| lose track of Oliver or Esthers' health; as soon as they fall below 50% of   |
+| lose track of Oliver or Esther's health; as soon as they fall below 50% of   |
 | their HP, quickly cast a healing spell or give them a proper health boost    |
 | by way of items. When the first Hob-Goblin is eliminated, heal your party    |
 | and go for the second one. With just the Gobspeed left, the remainder of the |
 | battle should be much easier to handle.                                      |
 |                                                                              |
-| If you're having trouble and taking too much damage with just your familars, |
+| If you're having trouble and taking too much damage with just your familiars,|
 | then try fighting as Oliver and continuously cast Pule to knock them away as |
 | they're about to carry out their attacks, and it should minimize the damage. |
 |______________________________________________________________________________|
@@ -3046,9 +3057,10 @@ errands board reveals that one new errand can now be done as well.
 |------------.-----------------------------------------------------------------|
 | STAMPS: 3  | REWARDS: [ ] Fire Seal, [ ] 600 G                               |
 | ¯¯¯¯¯¯¯    | ENEMIES: Magmoiselle                                            |
-|            | SPOILS: 121 EXP, 75 G                                           |
 |____________|_________________________________________________________________|
 |                                                                              |
+| VIDEO: http://tinyurl.com/d28hb26                                            |
+| ¯¯¯¯¯¯                                                                       |
 | For some reason, now we can never listen to the Muse song 'Madness' without  |
 | hearing this quests' name. Hopefully it's the same for you now, so that we   |
 | share the grief.                                                             |
@@ -3059,24 +3071,24 @@ errands board reveals that one new errand can now be done as well.
 |                                                                              |
 | This battle isn't too hard if you give Esther her Drongo while you stay in   |
 | control of Oliver himself and keep casting Frostbite. Magmoiselle will       |
-| usually keep chasing after you, and althrough her physical attacks are quite |
+| usually keep chasing after you, and although her physical attacks are quite  |
 | powerful, keeping a distance isn't that hard. She also has a more powerful   |
 | fire-based long range attack; defending against it works best.               |
 |______________________________________________________________________________|
 
 
-By now you should have a few merit cards left to exchange for powerups. It's
+By now you should have a few merit cards left to exchange for power-ups. It's
 up to you to decide, although Jack-in-the-Box (if you don't already have it)
-may prove useful in dungeons and parts of the world map with more powerful
+may prove useful in dungeons and parts of the World Map with more powerful
 adversaries.
 
 WORLD MAP EXPLORATION - CASTAWAY COVE AREA [WLK-2.8]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ITEMS: [ ] Sturdy Shinbone, [ ] Strong Coffee, [ ] Salted Ice Cream
-¯¯¯¯¯¯ 
+¯¯¯¯¯¯
 
 *ITEMS: [ ] Wetstone, [ ] Shadowglass, [ ] Rings-A-Bell, [ ] Slumbernot Leaves
-¯¯¯¯¯¯¯ 
+¯¯¯¯¯¯¯
 
 ENEMIES: Tu-Whit, Turburn, Shonky-Honker, Drone Bumbler, Monolith, Whambat,
 ¯¯¯¯¯¯¯¯ Purrloiner, Hog-Goblin, Rhinosnore
@@ -3119,17 +3131,17 @@ ITEMS: [ ] Iced Coffee, [ ] Milk Chocolate, [ ] Peculiar Pot, [ ] Cauldron,
 ¯¯¯¯¯¯ [ ] Pixie Dew, [ ] Sour Grapes, [ ] Slumbernot Leaves, [ ] Sprite Dew,
        [ ] Bathing Suit x3, [ ] Sweetie Pie, [ ] Sandwich, [ ] Fishburger
 
-*ITEMS: [ ] 20 G (50%), 30 G (30%), 40 G (20%), 
+*ITEMS: [ ] 20 G (50%), 30 G (30%), 40 G (20%),
 ¯¯¯¯¯¯¯ [ ] Cake/Chocolate/Flan (33.3% each)
 
 PAGES: [ ] 337 (The Lost Continent), 038 (Vacate)
-¯¯¯¯¯¯ 
+¯¯¯¯¯¯
 
-FORMULAS:  006, 001, 002, 007, 008, 013, 018, 023, 028, 033, 038
-¯¯¯¯¯¯¯¯¯ 
+FORMULAE:  006, 001, 002, 007, 008, 013, 018, 023, 028, 033, 038
+¯¯¯¯¯¯¯¯¯
 
 ENEMIES: Al-Khemi (*)
-¯¯¯¯¯¯¯¯ 
+¯¯¯¯¯¯¯¯
 ________________________________________________________________________________
 
 .——————————————————————————————————————————————————————————————————————————————.
@@ -3160,7 +3172,7 @@ ________________________________________________________________________________
 Castaway Cove can be found somewhere in the middle of the far south coastline.
 If you have trouble finding it, use your map for guidance.
 
-As soon as you enter, a cutscene plays; you're now supposed to chase the thief
+As soon as you enter, a cut scene plays; you're now supposed to chase the thief
 who stole the cauldron from a merchant. If your characters aren't fully healed,
 visit the Cat's Cradle (inn) first, because a boss fight is coming up. This also
 grants you [THE LOST CONTINENT] page, and while you're here you might as well
@@ -3172,8 +3184,8 @@ The thief is located at the last one; approach him and a scene will play,
 leaving you with the [PECULIAR POT]. Of course, poor Drippy's the one to have to
 lug it on his back...
 
-Return to the owner, who doesn't seem to happy about all of this, then look at
-page 74 of your Wizard's Companion to find the keycode that unlocks the
+Return to the owner, who doesn't seem too happy about all of this, then look at
+page 74 of your Wizard's Companion to find the key code that unlocks the
 cauldron: Open Says-A-Me. (Open Sesame, get the pun?) This triggers a scene and
 a boss battle.
 
@@ -3191,8 +3203,10 @@ a boss battle.
 
   REWARDS: 777 EXP, 620 G
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/dxe9zt8
+  ¯¯¯¯¯¯
 The fight against Al-Khemi is both funny and tough. Since his normal attacks
-contantly interrupt any physical attacks directed toward him, start your battle
+constantly interrupt any physical attacks directed toward him, start your battle
 using Oliver and cast Pulse repeatedly, only breaking to heal either himself or
 Esther.
 
@@ -3200,7 +3214,7 @@ The fight against Al-Khemi is both funny and tough. His regular physical attacks
 deal some damage, but aren't anything to worry about. His Al-Khombo attack,
 however, is very powerful and hits multiple times. Whoever Al-Khemi is facing
 will be the lucky target, so if he targets the character/familiar you're NOT
-controlling, quickly switch to that character and defend. 
+controlling, quickly switch to that character and defend.
 
 The Alakaz...Um.... attack comes in two varieties. If Al-Khemi pulls out his
 burning sword, stay away, heal your party, and use long distance attacks such as
@@ -3270,7 +3284,7 @@ to ride the ship.
 
 (You can also sign up for the following bounties, but they can't be completed
  until quite a bit later.)
- 
+
  • Bounty #093 - A Greedy Pirate Gang (to be completed later)
  • Bounty #094 - A Starving Sea Monster (to be completed later)
  • Bounty #095 - Researchers' Ruin (to be completed later)
@@ -3323,8 +3337,7 @@ to ride the ship.
 | GOAL: Create a candle cutter and show it to the girl.                        |
 |------------.-----------------------------------------------------------------|
 | STAMPS: 3  | REWARDS: [ ] Rings-A-Bell x2, [ ] Wetstone x2, [ ] 400 G,       |
-| ¯¯¯¯¯¯¯    |          [ ] Formulas 052, 052, 054, 057, 069, 077, 089, 098,   |
-|            |              099, 105, 110                                      |
+| ¯¯¯¯¯¯¯    | FORMULAE: 052, 052, 054, 057, 069, 077, 089, 098, 099, 105, 110 |
 |____________|_________________________________________________________________|
 |                                                                              |
 | Talk to the small girl with pink bikini nearby the first bridge of the       |
@@ -3333,9 +3346,9 @@ to ride the ship.
 |                                                                              |
 | The first ingredient is easy to get: a Flint Dagger, which can be bought     |
 | from the Cawtermaster in Al Mamoon. The second ingredient, an Emberstone,    |
-| can only be gotten from Mohawk enemies a little later in the game. They can  |
-| be found on the Teeheeti island, and you can either steal the item from      |
-| them, or wait for the creatures to drop one. Craft the candle cutter, bring  |
+| can be gotten from Mohawk enemies a little later in the game, although it    |
+| can also be gotten from Sunshine enemies as a rare drop (or you can wait     |
+| until you can steal the item from them). Craft the candle cutter, bring      |
 | it to the girl, and claim your reward.                                       |
 |______________________________________________________________________________|
 
@@ -3346,10 +3359,10 @@ ITEMS: [ ] Giant Cheese Wedge, [ ] Letter of Passage, [ ] Portrait,
 ¯¯¯¯¯¯ [ ] Fling Flame Gem
 
 PAGES: [ ] 35 (Nature's Tongue), [ ] 52 (Burden)
-¯¯¯¯¯¯ 
+¯¯¯¯¯¯
 
 ENEMIES: Swaine's Nightmare (*)
-¯¯¯¯¯¯¯¯ 
+¯¯¯¯¯¯¯¯
 ________________________________________________________________________________
 
 
@@ -3378,29 +3391,29 @@ errand (#047). It lets you make good use of your newly acquired spell.
  ___________________________________
 | ERRAND #047 - A Boy and His Birds |
 |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
-| DESCRIPTION: A young Momooni boy is worried because his pidgeons are late    |
+| DESCRIPTION: A young Mamooni boy is worried because his pigeons are late     |
 | ¯¯¯¯¯¯¯¯¯¯¯¯ returning to him.                                               |
 |------------------------------------------------------------------------------|
-| GOAL: Agree to look for the boy's pidgeons.                                  |
+| GOAL: Agree to look for the boy's pigeons.                                   |
 |------------.-----------------------------------------------------------------|
 | STAMPS: 2  | REWARDS: [ ] Phoenix Feather x2, [ ] 400 G                      |
 | ¯¯¯¯¯¯¯    |                                                                 |
 |____________|_________________________________________________________________|
 |                                                                              |
 | Talk to the boy near the entrance of Al Mamoon to start this errand. You'll  |
-| need to find three tame pidgeons in Al Mamoon; the first is around the       |
+| need to find three tame pigeons in Al Mamoon; the first is around the        |
 | corner, next to the milk fountain outside the Cat's Cradle. Cast Nature's    |
 | Tongue to speak with it, sending him back to the boy.                        |
 |                                                                              |
-| The second pidgeon can be found next to the milk fountain on the right side  |
-| of the town square. The last pidgeon can be tricky to find since he's hidden |
+| The second pigeon can be found next to the milk fountain on the right side   |
+| of the town square. The last pigeon can be tricky to find since he's hidden  |
 | indoors; visit the Hootique to find it sitting in a windowsill to the left.  |
 | Return to the boy for your reward.                                           |
 |______________________________________________________________________________|
 
 
 Return to Castaway Cove to trigger a scene. Be sure to rest at the Cat's Cradle
-if your party isn't funkyfresh at the moment, because we've got a boss battle
+if your party isn't funky fresh at the moment, because we've got a boss battle
 coming up! You might also want to stock up on Sleep-Be-Gones as well as some
 Confusion-Be-Gones from the peddler. When you're all set, head for the pier to
 face what looks to be another nightmare creature.
@@ -3416,11 +3429,13 @@ face what looks to be another nightmare creature.
 
   REWARDS: 860 EXP, 700 G
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/dyjxlpc
+  ¯¯¯¯¯¯
 This Nightmare creature will frequently attempt to put your characters to sleep,
 or otherwise curse them, significantly impairing their movement, allowing it
 to hit you with quite a few nasty regular physical attacks.
 
-Move in with a familiar right away and perform an all out attack. The sleep
+Move in with a familiar right away and perform an all-out attack. The sleep
 ailment is annoying since Nightmare might inflict a critical hit on you, but
 after any such hit you're good to go again; heal up and continue your sequence
 of attacks. Also keep an eye on your second party member's health and don't let
@@ -3429,7 +3444,7 @@ it drop below 40-50%.
 If you see Nightmare charging up for Bad Dream, it's quite possible to cancel
 the attack with a series of attacks, and you should always attempt this if
 you're high on HP. It might just generate a golden glim. If it does, the battle
-is surely in it's last phase.
+is surely in its last phase.
 
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
@@ -3453,7 +3468,7 @@ ________________________________________________________________________________
 Before you set sail, there are several things you can do in town first, and
 there are also green chests in other locations that you had to skip earlier on.
 
-   List of Green Chests 
+   List of Green Chests
    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
  • Location: Castaway Cove. Head to the entrance of the town and cross the
    bridge to southeast. After crossing it, take a few minor steps to your right
@@ -3464,7 +3479,7 @@ there are also green chests in other locations that you had to skip earlier on.
  • Location: Old Smoky. Make your way to the (2nd) Waystone in the middle of
    the area and take the left path at the intersection just up ahead. The green
    chest can be found at the end; it contains [PIXIE DEW]. You can cast the
-   Vacate spell to quickly teleport back to the world map.
+   Vacate spell to quickly teleport back to the World Map.
 
  • Location: Al Mamoon. Head up to the town square and stop just before stepping
    onto the actual plaza. Walk to the right/east side of the street, position
@@ -3472,7 +3487,7 @@ there are also green chests in other locations that you had to skip earlier on.
    green chest is hidden away on the roof of the building on the west side and
    contains a [RUBY RIPPLE ICE CREAM] (another high level treat that increases
    evasion).
- 
+
  • Location: Golden Grove. Entering the place from the Shimmering Sands, follow
    the path to the crossroads and head north. Use Quicken Growth on the
    mushrooms if you hadn't already and step up the fourth one; look to your left
@@ -3480,17 +3495,17 @@ there are also green chests in other locations that you had to skip earlier on.
    high level treat - this one increases attack). If you're traveling to the
    other side of the Golden Grove, don't cast Vacate; it'll drop you off at the
    side from which you entered.
- 
+
  • Location: Ding Dong Dell. Head to the west part of town and walk to the most
    southern tip of the area, where you'll spot three vases against the town's
    wall. Look down next to the tree to spot the green chest; it contains a slice
    of [SEE-THROUGH PIE] (you've guessed it; this one boosts accuracy).
- 
+
  • Location: Ding Dong Well. Head to the waypoint at the end of the area. From
    here, head all the way south to find the green chest behind bars to the east.
    It contains a [WATER BOMB GEM] (which teaches the Water Bomb Trick to a
    familiar). Either use the Vacate spell, or travel to the square beyond the
-   waystone to find a warp circle that allows teleportation back to the entrance
+   Waystone to find a warp circle that allows teleportation back to the entrance
    of the well.
 
  • Location: Hidden Forest Glade in the northeast forests of Ding Dong Dell.
@@ -3511,7 +3526,7 @@ there are also green chests in other locations that you had to skip earlier on.
    game before attempting this optional exploration, and keep multiple save
    files so you can also save your game after getting each single treasure,
    without getting yourself in trouble.
-   
+
    In any case, just slightly (south)west of the Deep Dark Wood, a bridge can
    now be made (with the Bridge spell), allowing entrance to the western plains.
 
@@ -3525,7 +3540,7 @@ there are also green chests in other locations that you had to skip earlier on.
  • There's a hidden forest glade to the far west of this area, stashed away
    behind the mountains; walk around them and enter the forest at the far end.
    Inside is a regular chest with some [SLUMBERNOT LEAVES]. Also take note of
-   the green chest on top of the statue. The vantage point (for Swaine) is 
+   the green chest on top of the statue. The vantage point (for Swaine) is
    a little northwest of the red chest. It contains a [PIXIE DEW].
 
  • Travel to the south part of the plains and stop when you reach a lower plain.
@@ -3539,7 +3554,7 @@ there are also green chests in other locations that you had to skip earlier on.
 Now's also an excellent time (as well as your last chance for this particular
 story progression interval) to stop by Old Father Oak and tell him about your
 progress. As way of thanks he gives you a nice [PHOENIX FEATHER x3].
- 
+
 There are also various errands you can now do in Castaway Cove.
 
 ***  ERRANDS / BOUNTIES  ***
@@ -3628,17 +3643,25 @@ The following two can be gotten very shortly:
 Scale Shield: Leather Shield + Sturdy Scale + Angula
 Breezy Cloak: Sea Breeze Cloak + Angula x2
 
-When you're all set, approach the ship to sail away! 
+When you're all set, approach the ship to sail away!
+
+NOTE: You'll automatically earn the "Anchors Aweigh" trophy by setting sail on
+¯¯¯¯¯ the Sea Cow.
 
 
-      S E C T I O N  T H R E E :  T H E  S P A R K L I N G  S E A S [WLK-3]
-      ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+|   \ |  \ | |  / |                        S E C T I O N   T H R E E   [WLK-3] |
+|  .  | .  | . <  |————————————————————————————————————————————————————————————|
+| _|\_|_|\_|_|\_\ |                       T H E   S P A R K L I N G   S E A S  |
+|_________________|____________________________________________________________|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
 WORLD MAP EXPLORATION - THE SOUTHERN ISLES [WLK-3.1]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ITEMS: [ ] Phoenix Feather x3, [ ] Pointy Hat, [ ] Sacred Dagger,
 ¯¯¯¯¯¯ [ ] Fishburger x2, [ ] Fine Frock, [ ] Sturdy Shinbone x2,
-       [ ] Cappucino x2, [ ] Game Pie, [ ] Sage's Secret, [ ] Angula x2,
+       [ ] Cappuccino x2, [ ] Game Pie, [ ] Sage's Secret, [ ] Angula x2,
        [ ] See-through Pie x2, [ ] Fishburger x2, [ ] Dumbflounder x5,
        [ ] Glowshrimp x5
 
@@ -3653,7 +3676,7 @@ ENEMIES: Sparkee (073), Airhead (197), Hooray (069), Splisher (065),
 ________________________________________________________________________________
 
 
-You can now explore the worldmap, although many enemies are way too strong for
+You can now explore the World Map, although many enemies are way too strong for
 you to currently handle. There are, nonetheless, several areas you might want to
 check out already before going straight to Autumnia.
 
@@ -3668,7 +3691,7 @@ check out already before going straight to Autumnia.
 
  * A second forage point can be found on Robinson Island itself, in the middle
    of the western area, near some bush. It contains an [ANGULA], which is used
-   in some useful alchemy formulas as seen above.
+   in some useful alchemy formulae as seen above.
 
  • The far south tip of Robinson Island contains a [SACRED DAGGER], which is
    a pretty good weapon at this point in the game. It has a small chance (3%)
@@ -3684,7 +3707,7 @@ check out already before going straight to Autumnia.
    of equipment for the time being.
 
  * To the northeast of Robinson Island (as well as the small sandbank) lies
-   Friday Island. There's a forage point next to the lone palmtree that gives
+   Friday Island. There's a forage point next to the lone palm tree that gives
    you [SLUMBERNOT LEAVES x2].
 
  • Head to the far north tip of Friday Island and inspect the palm trees to
@@ -3703,10 +3726,11 @@ Now's also an excellent time to do the three bounties from Castaway Cove (#093,
 |------------.-----------------------------------------------------------------|
 | STAMPS: 3  | REWARDS: [ ] Poison Pinch Gem, [ ] 600 G                        |
 | ¯¯¯¯¯¯¯    | ENEMIES: Purrloiner (005), Cutpurrse (006), Puss in Bouts (007) |
-|            | SPOILS: 193 EXP, 149 G                                          |
 |____________|_________________________________________________________________|
 |                                                                              |
-| These catbandits can be found on the small island south of Robinson Island.  |
+| VIDEO: http://tinyurl.com/bnoyj49                                            |
+| ¯¯¯¯¯¯                                                                       |
+| These cat bandits can be found on the small island south of Robinson Island. |
 | Be sure to defeat the Purrloiner first, then heal your party and solely      |
 | focus on the Cutpurrse, only going for the Puss in Bouts after its comrades  |
 | have fallen. It helps to have water spells/tricks, but they're not really    |
@@ -3723,7 +3747,6 @@ Now's also an excellent time to do the three bounties from Castaway Cove (#093,
 |------------.-----------------------------------------------------------------|
 | STAMPS: 5  | REWARDS: [ ] Whalefish Tusk, 800 G                              |
 | ¯¯¯¯¯¯¯    | ENEMIES: Hubber Blubber (305)                                   |
-|            | SPOILS: 137 EXP, 152 G                                          |
 |____________|_________________________________________________________________|
 |                                                                              |
 | This creature can be found swimming around Robinson Island. Disembark the    |
@@ -3744,9 +3767,10 @@ Now's also an excellent time to do the three bounties from Castaway Cove (#093,
 |------------.-----------------------------------------------------------------|
 | STAMPS: 5  | REWARDS: [ ] Sacred Dagger, [ ] 800 G                           |
 | ¯¯¯¯¯¯¯    | ENEMIES: Collum (317)                                           |
-|            | SPOILS: 153 EXP, 136 G                                          |
 |____________|_________________________________________________________________|
 |                                                                              |
+| VIDEO: http://tinyurl.com/bnoyj49                                            |
+| ¯¯¯¯¯¯                                                                       |
 | To the northeast of Castaway Cove is a piece lies a piece of unexplored land |
 | of which one entrance is blocked by a big Collum. Defeating it is best done  |
 | by keeping your distance (with the possible exception of Swaine's Hurly) and |
@@ -3762,8 +3786,8 @@ enemies. If you've been doing all errands and bounties so far, it's the last
 award currently available. If your party members are exhausted from all the
 fights, head over to the Cat's Cradle as well to heal up.
 
-NOTE: By completing all Bounty Hunts up until now, you should receive the 'New
-¯¯¯¯¯ Sheriff in Town' trophy for completing 10 Bounties.
+NOTE: By completing all Bounty Hunts up until now, you should receive the
+¯¯¯¯¯ "New Sheriff in Town" trophy for completing 10 Bounties.
 
 When you're ready, head back to your ship and set sail to Shipwreck Shore!
 
@@ -3818,7 +3842,7 @@ can also run from enemies; it's wise to do so around here.
    that contains an [ANGULA], but the area is roaming with monsters, so it's
    best to harvest it later.
 
-While you can technically explore other areas of the world map at this point,
+While you can technically explore other areas of the World Map at this point,
 doing so is very dangerous as the creatures will slaughter you with the blink
 of an eye. It's better to sail to your destination, Hamelin.
 
@@ -3828,7 +3852,7 @@ NOTE: Now is also your last chance to backtrack all the way to Old Father Oak,
 
 SAILING TO AUTUMNIA (AND TEEHEETI) [WLK-3.2]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-ITEMS: [ ] Sprocket x2, [ ] Carnation Cake x2, Soretooth Ring,k [ ] Fishburger,
+ITEMS: [ ] Sprocket x2, [ ] Carnation Cake x2, Soretooth Ring, [ ] Fishburger,
 ¯¯¯¯¯¯ [ ] Water Bomb Gem, [ ] Dryad's Spear
 
 *ITEMS: [ ] Gnomebeard, [ ] Wetstone, [ ] Rings-a-Bell
@@ -3852,6 +3876,8 @@ When you get close to your destination, Shadar suddenly appears..
 
   REWARDS: ---
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/buoycev
+  ¯¯¯¯¯¯
 It's very important to know that you don't have to fully deplete Shadar's HP;
 dropping it to 60% is enough. While it's extremely important that you keep your
 characters healthy, it's on the other hand just as essential to quickly drain
@@ -3878,7 +3904,7 @@ Companion. Let's search the island for a few treasures now, shall we?
 TIP: Now's also a good time to steal an Emberstone from the Mohawk birds on this
 ¯¯¯¯ island. You need this for errand #076. In fact, it's generally a good idea
      to steal items with Swaine every now and then. Many items will be of use
-     eventually in a formula or sidequest.
+     eventually in a formula or side quest.
 
  • Head east and follow the beach to the north side, cross the creek and inspect
    the cliffs at the far end (at the spot where they intersect with the beach
@@ -3909,7 +3935,7 @@ TIP: Now's also a good time to steal an Emberstone from the Mohawk birds on this
  • Approaching the town in the middle of the island, first travel slightly
    east/northeast from the center and search the grassy part without trees
    (nearby the river) to find a [DRYAD'S SPEAR], an excellent weapon that
-   drains 10% of the enemy's healh with every hit.
+   drains 10% of the enemy's health with every hit.
 
 When you're done talking to crustaceans and collecting treasures, return to your
 ship, then proceed directly northwest and into the forest to find out what
@@ -3929,7 +3955,7 @@ PAGES: [ ] 29 (Levitate), 331 (Teeheeti), 333 (The Fairyground),
        [ ] 55 (Shrink), [ ] 51 (Open Mind), [ ] 46 (Loaf of Life),
        [ ] 68 (Poison Apple), [ ] 270-271 (The Third Tale)
 
-FORMULAS: 010
+FORMULAE: 010
 ¯¯¯¯¯¯¯¯¯
 ENEMIES: Dinkey (129), Splisher (065), Airhead (197), Hooray (069),
 ¯¯¯¯¯¯¯¯ Sparkee (073), Plessie (213), Hubber Blubber (305),
@@ -4066,6 +4092,8 @@ When you're ready, proceed to the right for an unexpected battle.
 
   REWARDS: 1020 EXP, 1030 G, Spirit of the Storm
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/ccgdxnf
+  ¯¯¯¯¯¯
 The fight with Royal Jelly isn't too hard if you come prepared with the right
 equipment (defensive equipment resistant to storm, fire-inflicting Burning
 Blades). Its physical attacks are weak, although its See Stars attack (get the
@@ -4219,10 +4247,10 @@ TIP: Now's also an excellent time to complete errand #076, which required an
 | before defeating them; this can be done, for example, with Mite's Sand Blast |
 | trick, or by Sprout Sprite's or Sunshine's Razzle Dazzle trick.              |
 |                                                                              |
-| Head to the world map and look for the bats near the beach area, and defeat  |
-| them in the aforemention fashion. They won't always drop the slapsticks      |
+| Head to the World Map and look for the bats near the beach area, and defeat  |
+| them in the aforementioned fashion. They won't always drop the slapsticks    |
 | even then, but a few battles ought to be enough to collect all three of 'em. |
-| Hand the over to the fairy to claim your reward.                             |
+| Hand them over to the fairy to claim your reward.                            |
 |______________________________________________________________________________|
 
  ____________________________
@@ -4240,7 +4268,7 @@ TIP: Now's also an excellent time to complete errand #076, which required an
 | Talk to the fairy just south of Swift Solutions and agree to find the items  |
 | he requires for his medication: Booster Shoots x1, Slumbernot Leaves x1, and |
 | Springwater x1. It's very likely that you have all these items already if    |
-| you've been raiding forage points on the world map, but if you don't, you'll |
+| you've been raiding forage points on the World Map, but if you don't, you'll |
 | want to go back to some of them. Booster Shoots can be found near Ding Dong  |
 | Dell, as can Springwater, and Slumbernot Leaves are found at a forage point  |
 | near Castaway Cove. Return the items to claim your reward.                   |
@@ -4291,7 +4319,7 @@ travel to Golden Grove afterwards.
 | The fairy at the far south area of Golden Grove asks you to deal with the    |
 | horrible hyperboars who have been troubling the forest, eating its mushrooms.|
 | All Hyperboars are marked on your map, making them easy to find. The first   |
-| two Hyperbores are accompanied by two Crashing Boars - lesser versions which |
+| two Hyperboars are accompanied by two Crashing Boars - lesser versions which |
 | you should eliminate first - while the third Hyperboar is accompanied by     |
 | three of those, so you might want to touch the nearby Waystone first.        |
 |                                                                              |
@@ -4326,7 +4354,7 @@ can say Wrath of the White Witch. Only the first treasure is easy to get (it's
 on the beach), but the rest will definitely require you to be at full HP, MP,
 guts, and have a stock of save files.
 
-TIP: Remember that enemies on the world map can be briefly stunned by grabbing
+TIP: Remember that enemies on the World Map can be briefly stunned by grabbing
 ¯¯¯¯ any item. Don't remove the item box but quickly run away to safety, giving
      you a small lead that might just save your life.
 
@@ -4357,8 +4385,13 @@ When you're all done, set sail for Hamelin.
 
 
 
-       S E C T I O N  F O U R:  S O U T H E R N  A U T U M N I A  [WLK-4]
-       ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+|   \ |  \ | |  / |                          S E C T I O N   F O U R   [WLK-4] |
+|  .  | .  | . <  |————————————————————————————————————————————————————————————|
+| _|\_|_|\_|_|\_\ |                         S O U T H E R N   A U T U M N I A  |
+|_________________|____________________________________________________________|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
 WORLD MAP EXPLORATION - SOUTHERN AUTUMNIA [WLK-4.1]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -4525,8 +4558,8 @@ Clockwork Ax =       Watchmaker's Ax + Drill Screw + Sprocket
 Bone Mail =          Bass Bell + Sturdy Shinbone x2
 Medal of Dexterity = Soldier's Sword + Bass Bell + Sprocket
 
-Definitely chat with with man outside Swift Solutions to receive a large amount
-of alchemy formulas: 003, 009, 011, 014, 019, 024, 029, 034, 039, 058, 078, 100,
+Definitely chat with the man outside Swift Solutions to receive a large amount
+of alchemy formulae: 003, 009, 011, 014, 019, 024, 029, 034, 039, 058, 078, 100,
 116 and 122. There is also a pot just to the west of Swift Solutions with an
 [ICED COFFEE] inside.
 
@@ -4677,6 +4710,8 @@ Solutions!
 | ¯¯¯¯¯¯¯    | ENEMIES: Zomboatswain (290), Cap'n Zombo (291)                  |
 |____________|_________________________________________________________________|
 |                                                                              |
+| VIDEO: http://tinyurl.com/coap63b                                            |
+| ¯¯¯¯¯¯                                                                       |
 | The researcher's perils are not yet over, it seems! Pirates in the sea       |
 | between Hamelin and Castaway Cove are preventing him to bring his medicine   |
 | towards his sister, so you'll have to take it for him, right? Nope! That     |
@@ -4730,6 +4765,8 @@ Solutions!
 | ¯¯¯¯¯¯¯    | ENEMIES: Steam-Man (147), Clinketyclank (149)                   |
 |____________|_________________________________________________________________|
 |                                                                              |
+| VIDEO: http://tinyurl.com/coap63b                                            |
+| ¯¯¯¯¯¯                                                                       |
 | This bounty is located on the long tracks crossing the ravine south of       |
 | Hamelin. It's a surprisingly easy fight, especially if you wipe out the      |
 | lesser Clinketyclanks first. Storm attacks work wonders against Steam-Man,   |
@@ -4748,6 +4785,8 @@ Solutions!
 | ¯¯¯¯¯¯¯    | ENEMIES: Fluvius Maximus (325)                                  |
 |____________|_________________________________________________________________|
 |                                                                              |
+| VIDEO: http://tinyurl.com/coap63b                                            |
+| ¯¯¯¯¯¯                                                                       |
 | Fluvius Maximus can be found in the ruins to the far south of Autumnia, near |
 | the beach you left the Sea Cow. It's got a fairly large amount of HP, but    |
 | that doesn't necessarily make this a hefty battle. It resists water and is   |
@@ -4780,6 +4819,8 @@ than it looks.
           | : |
           Start
 
+                       VIDEO: http://tinyurl.com/coap63b
+                       ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 Following the above map, perform the following steps:
 
 NOTE: Guards can only see half a hall at a time, and cannot spot you in alcoves.
@@ -4826,6 +4867,8 @@ When you're absolutely ready, drop down and get ready for a tough boss.
 
   REWARDS: 1130 EXP, 1630 G, Hog's Cog
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/coap63b
+  ¯¯¯¯¯¯
 Porco Grosso is Hamelin's toughest enemy and physical attacks are basically
 harmless against it, so you'll mostly want to stick with magic and tricks.
 Mostly - because equipping Mite with the Roc Feather, and any spear-using
@@ -4851,15 +4894,15 @@ the battle with a few All-Out attacks.
 
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
-Whenever you have control, just make your way to the stars for cutscenes. After
+Whenever you have control, just make your way to the stars for cut scenes. After
 a few of them, you'll  be magically transported to the Hamelin of the past. More
 scenes will play until  you're finally required to investigate a mine where the
 Emperor's young princes have gone. Visit the Cat's Cradle to heal up (if
-necessary), then go to the world map and check out the mine located in the
+necessary), then go to the World Map and check out the mine located in the
 mountains southeast of Hamelin.
 
-You'll find Gascin and Marcassin (the Emperor's sons) under attack by a giant
-Earth Ogrrr. The beast is easily taken care of, so have Gascin 'escort' you back
+You'll find Gascon and Marcassin (the Emperor's sons) under attack by a giant
+Earth Ogrrr. The beast is easily taken care of, so have Gascon 'escort' you back
 to the castle afterwards. You'll be given the [ARROW OF LIGHT] spell, which
 deals light elemental damage and is particularly effective against undead/dark
 enemies.
@@ -4953,6 +4996,8 @@ boss fight.
 
   REWARDS: 1290 EXP, 1750 G
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/ckd6m4e
+  ¯¯¯¯¯¯
 Candelabracadabra is a surprisingly easy boss to beat, but that's mostly thanks
 to your newly acquired Arrow of Light spell, which tends to generate various
 glims - including golden ones - so be sure to cast the spell a lot by using
@@ -4985,14 +5030,14 @@ TIP: Make sure to actually equip Mornstar, if you haven't already. It gives you
 OPTIONAL WORLD MAP EXPLORATION [WLK-4.4]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ITEMS: [ ] Healing Tear Gem, [ ] Dragon Tusk, [ ] 2000 G, [ ] Hot-Blooded Badge,
-¯¯¯¯¯¯ [ ] 5000 G, [ ] Meteorite Fragment, [ ] Sage's Secret,
+¯¯¯¯¯¯ [ ] 5000 G, [ ] Rise and Shine Gem, [ ] Sage's Secret,
        [ ] Thunderspark Gem, [ ] Poison Pinch Gem, [ ] Pixie Dew x3,
        [ ] Glowcaps x5, [ ] Name Tag, [ ] Pixie Dew, [ ] Sundrop x2, [ ] 500 G,
-       [ ] Babana Flan x2, [ ] Cappucino, [ ] Ruby Ripple Ice Cream x2,
-       [ ] Phoenix Breath, [ ]
+       [ ] Babana Flan x2, [ ] Cappuccino, [ ] Ruby Ripple Ice Cream x2,
+       [ ] Phoenix Breath
 
-*ITEMS: [ ] Fogdrop, [ ] Angula, [ ] Sun Crystal or Star Crystal or Moon Crystal
-¯¯¯¯¯¯¯ or Planet Crystal (25% each)
+*ITEMS: [ ] Meteorite Fragment, [ ] Fogdrop, [ ] Angula, [ ] Sun Crystal or
+¯¯¯¯¯¯¯ Star Crystal or Moon Crystal or Planet Crystal (25% each)
 
 PAGES: [ ] 304-307 (The Eleventh Tale)
 ¯¯¯¯¯¯
@@ -5028,7 +5073,7 @@ can currently undertake:
    and swiftly take them out one by one with All-Out attacks. You'll be rewarded
    with a [DRAGON TUSK] and [2000 G].
 
-   NOTE: After your first win, you'll receive the 'Solosseum Slugger' trophy.
+   NOTE: After your first win, you'll receive the "Solosseum Slugger" trophy.
    ¯¯¯¯¯
    TIP: Normally Rank D will be too tough for you to handle at this point in the
    ¯¯¯¯ game, but if you level up a lot on Ugly Duckling Island (see below,
@@ -5042,12 +5087,15 @@ can currently undertake:
    (You may want to read below before sailing there, to save you from having to
    make several trips there and back, gathering supplies.)
 
-   There are plenty of items and mini-sidequests to be done there, and the
+ * There are plenty of items and mini-side quests to be done there, and the
    westernmost island of the bunch (The Hermit's Shell) also has a forage point
    that gives a [METEORITE FRAGMENT]. If you've collected one of these (from
    here) before, you can now make the excellent Barrier Badge (Iron Shield +
    Meteorite Fragment x2 + Sprocket x2]. It grants +15 defense and magic defense
    while lowering evasion and accuracy by 5 points.
+
+ • Also on this island is a hidden chest to the far southeast in the water, and
+   it contains a [RISE AND SHINE GEM].
 
    The cave on this island is filled with familiars that you can speak to with
    Nature's Tongue. There are five mini-quests to be done here:
@@ -5101,13 +5149,13 @@ Mountain.
    northernmost point of this area for [500 G]. Not bad!
 
  * There's also a useful forage point on the west side of Swan Island that nets
-   you [FOGDROP], an ingredient used in several alchemy formulas.
+   you [FOGDROP], an ingredient used in several alchemy formulae.
 
  • Visit the small island west of Swan Island and walk over the beach to the
    tiny adjacent isle. Search the south area to collect [BABANA FLAN x2].
 
  • The small island west of Swan Island contains a hidden treasure itself;
-   search the northernmost tip of it to find a [CAPPUCINO].
+   search the northernmost tip of it to find a [CAPPUCCINO].
 
  * The island south of Swan Island is called Ugly Duckling Isle. The forage
    point here contains an [ANGULA].
@@ -5117,19 +5165,19 @@ Mountain.
 
    TIP: Ugly Duckling Island is home to a fairly uncommon creature known as
    ¯¯¯¯ Toko; green and round staff-wielding cowards. You can encounter them
-        on the world map but also as part of other enemy teams (but only on this
-        island). Since they give a whooping 2000 EXP points, this is an amazing
+        on the World Map but also as part of other enemy teams (but only on this
+        island). Since they give a whopping 2000 EXP points, this is an amazing
         place to level your characters up into their late 30's, early 40's even.
         It's also a good idea to metamorphose some of your familiars into their
         third form, since it only takes a couple of battles to have them back
-        at their former strength. You'll ALWAYS want to take out Toko's first,
+        at their former strength. You'll ALWAYS want to take out Tokos first,
         and preferably approach enemies from their backs to give you a slight
-        advantage; Toko's tend to run away quickly. Powerful skills combined
+        advantage; Tokos tend to run away quickly. Powerful skills combined
         with an All-Out attack (+ attack leader's target) should counter this.
 
  • You can also visit the northwest part of Autumnia by disembarking at the
    western beach of the continent, which gives access to a mountain trail with
-   very powerful enemies. If you've levelled up to around level 40 (for your
+   very powerful enemies. If you've leveled up to around level 40 (for your
    characters) you should be able to defeat them, but not without difficulty,
    so it's better to avoid any enemies here for now. If you want to take a risk
    for a rather decent treasure, save your game on the beach and head to the
@@ -5250,7 +5298,7 @@ for more restraint:
 |______________________________________________________________________________|
 
  ______________________________________
-| Errand #016 - Strength to Soldier On |
+| ERRAND #016 - Strength to Soldier On |
 |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
 | DESCRIPTION: A senior Ding Dong Dell soldier finds himself wholly unable to  |
 | ¯¯¯¯¯¯¯¯¯¯¯¯ summon the courage to fight monsters.                           |
@@ -5413,6 +5461,8 @@ for more restraint:
 | ¯¯¯¯¯¯¯    | ENEMIES: Blubber Bubbler (306)                                  |
 |____________|_________________________________________________________________|
 |                                                                              |
+| VIDEO: http://tinyurl.com/c4rjqcn                                            |
+| ¯¯¯¯¯¯                                                                       |
 | The Blubber Bubbler is found nearby the long stretched island southwest of   |
 | the beach leading to the Skull Mountain, so that means west of the           |
 | Summerlands continent. Storm-based attacks are particularly helpful in the   |
@@ -5420,7 +5470,7 @@ for more restraint:
 |______________________________________________________________________________|
 
  ___________________________
-| Bounty #102 - Fiery Giant |
+| BOUNTY #102 - Fiery Giant |
 |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
 | DESCRIPTION: A huge, hot-tempered monster has appeared in the foothills of   |
 | ¯¯¯¯¯¯¯¯¯¯¯¯ Old Smoky! Take it down - but mind you don't get burned!        |
@@ -5432,7 +5482,7 @@ for more restraint:
 | ¯¯¯¯¯¯¯    | ENEMIES: Fire Ogrrr (324)                                       |
 |____________|_________________________________________________________________|
 |                                                                              |
-| The Fiery Giant can be found on the world map path leading up to Old Smoky.  |
+| The Fiery Giant can be found on the World Map path leading up to Old Smoky.  |
 | Teleporting there and backtracking to the Ogrrr is the fastest way to reach  |
 | him. Water-type attacks are particularly effective against Fire Ogrrr, and   |
 | obviously you'll want to stay away from using fire-based tricks.             |
@@ -5441,7 +5491,7 @@ for more restraint:
 
 SKULL MOUNTAIN - DEN OF THE SKY PIRATE [WLK-4.5]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-ITEMS: [ ] Cappucino, [ ] Star Drop, [ ] 500 G, [ ] Jumbo Sundrop,
+ITEMS: [ ] Cappuccino, [ ] Star Drop, [ ] 500 G, [ ] Jumbo Sundrop,
 ¯¯¯¯¯¯ [ ] Dragon Horn, [ ] Thunderstorm Gem, [ ] Map of the Stones
 
 *ITEMS: [ ] Drill Screw
@@ -5497,6 +5547,8 @@ the boss!
 
   REWARDS: 1470 EXP, 2050 G
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/brrjyhl
+  ¯¯¯¯¯¯
 Before the battle gets too far underway, quickly switch to Swaine and steal that
 Dragon Tusk! It's a pretty decent weapon, and if you try it at the beginning and
 fail, then you can always reload your save for a better shot.
@@ -5558,7 +5610,8 @@ another boss fight!!!
                          All-Out Defense!]
   REWARDS: 1565 EXP, 2200 G
   ¯¯¯¯¯¯¯¯
-
+  VIDEO: http://tinyurl.com/brrjyhl
+  ¯¯¯¯¯¯
 Being an undead-looking demon, the Nightmare is naturally weak to Light, so you
 would think spamming Arrow of Light would be a good idea. Granted, it does work
 nicely, but because of its high MP cost and only being able to do it
@@ -5605,11 +5658,11 @@ Head back to the airship and talk to Kublai. Watch the scenes here as you'll
 finally be able to ride the large purple dragon as you please! You'll
 automatically hop onto Tengri and head off onto the World Map.
 
-NOTE: You'll automatically earn the 'Fly the Friendlier Skies' trophy once you
+NOTE: You'll automatically earn the "Fly the Friendlier Skies" trophy once you
 ¯¯¯¯¯ are able to fly with Tengri.
 
 Pay attention to Drippy's tutorial on how to fly, then you'll receive the
-[DRAGON HORN] that will let you summon Tengri anywhere on the world map! Now,
+[DRAGON HORN] that will let you summon Tengri anywhere on the World Map! Now,
 it's off to Solitary Isle, which is on the southeastern corner of your map; take
 a look! On this small island, read the text on the stone and search behind it
 for a [THUNDERSTORM GEM]. Summon Tengri afterwards with the directional 'Up'
@@ -5617,12 +5670,17 @@ button and return to Kublai.
 
 After the scene, cast the 'Insight' spell to reveal the three locations of the
 stones. You'll be given the [MAP OF THE STONES] for free by Kublai. Now that you
-can explore the world map almost entirely, its smart to collect several hidden
+can explore the World Map almost entirely, it's smart to collect several hidden
 treasures and complete new errands.
 
 
-S E C T I O N  F I V E: S E A R C H  F O R  T H E  M A G I C S T O N E S [WLK-5]
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+|   \ |  \ | |  / |                          S E C T I O N   F I V E   [WLK-5] |
+|  .  | .  | . <  |————————————————————————————————————————————————————————————|
+| _|\_|_|\_|_|\_\ |     S E A R C H   F O R   T H E   M A G I C   S T O N E S  |
+|_________________|____________________________________________________________|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
 WORLD MAP EXPLORATION WITH TENGRI [WLK-5.1]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -5636,11 +5694,11 @@ ITEMS: [ ] Green Man's Cloak, [ ] Thunderspark Gem, [ ] Poisoner's Horn,
 *ITEMS: [ ] Jade Marble, [ ] Plainswort Flower or Angula or Gnomebeard or
 ¯¯¯¯¯¯¯ Rings-A-Bell (25% chance each), [ ] Wetstone, [ ] Sturdy Shinbone,
         [ ] Jade Marble, [ ] Fogdrop, [ ] Base Bell, [ ] Jade Marble,
-        [ ] Jade Marble, [ ] Rumblenut, [ ] Plainswort Flower, 
+        [ ] Jade Marble, [ ] Rumblenut, [ ] Plainswort Flower,
 
 ________________________________________________________________________________
 
-Now that you have Tengri, almost all of Ni no Kuni's world map has opened up for
+Now that you have Tengri, almost all of Ni no Kuni's World Map has opened up for
 you. In addition, various new errands and bounties can now be completed, and
 it's also that time of the year again as well: visit Old Father Oak to receive a
 [GREEN MAN'S CLOAK] from him. Furthermore, most hidden treasures can now be
@@ -5775,7 +5833,7 @@ inaccessible areas. Let's start with the errands and bounties first.
  ______________________________________
 | ERRAND #058 - The Sky Pirate's Charm |
 |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
-| DESCRIPTION: A sky pirate in Skull Mounain is in a terrible state after      |
+| DESCRIPTION: A sky pirate in Skull Mountain is in a terrible state after     |
 | ¯¯¯¯¯¯¯¯¯¯¯¯ losing his lucky charm.                                         |
 |------------------------------------------------------------------------------|
 | GOAL: Agree to help the sky pirate with his problem.                         |
@@ -5822,6 +5880,8 @@ inaccessible areas. Let's start with the errands and bounties first.
 | ¯¯¯¯¯¯¯    | ENEMIES: Tempestus Majora (326)                                 |
 |____________|_________________________________________________________________|
 |                                                                              |
+| VIDEO: http://tinyurl.com/cego9pn                                            |
+| ¯¯¯¯¯¯                                                                       |
 | You'll find Tempestus Majora on the northwest/west side of the Summerlands   |
 | continent, south of the Skull Mountain. It is located in an area only        |
 | accessible with Tengri. The fight itself isn't too hard; the creature is     |
@@ -5830,7 +5890,7 @@ inaccessible areas. Let's start with the errands and bounties first.
 |______________________________________________________________________________|
 
  ___________________________________
-| Bounty #105 - An Island in Crisis |
+| BOUNTY #105 - An Island in Crisis |
 |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
 | DESCRIPTION: A nasty monster is destroying the natural beauty of Swan Island.|
 | ¯¯¯¯¯¯¯¯¯¯¯¯ This cannot be tolerated!                                       |
@@ -5863,13 +5923,13 @@ TIP: You can now use the 'Seek Treasure' spell to reveal any nearby hidden
    southeast of Deep Dark Wood and search the forage point for a [JADE MARBLE].
 
  * There's also a forage point to the far north of the area, stashed away among
-   some forests just south of the northermost mountains. It can give a variety
+   some forests just south of the northernmost mountains. It can give a variety
    of four ingredients, all with a 25% chance: [PLAINSWORT FLOWER or ANGULA or
    GNOMEBEARD or RINGS-A-BELL].
 
  * Locate the large lake and waterfall just northwest of the Deep Dark Wood.
    The forage point directly to the west side of the waterfall (nearby a
-   singular tree) contains a [WETSTONE]. 
+   singular tree) contains a [WETSTONE].
 
  * You can find a fourth and final forage point on the eastern side of the
    northern plains. It's located between two single bones sticking out of the
@@ -5880,7 +5940,7 @@ TIP: You can now use the 'Seek Treasure' spell to reveal any nearby hidden
    ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
    This area is known as The Barrens and is only accessible with Tengri, since
    it is separated from other areas by mountains.
-   
+
  • There's a little hill amongst forests on the west side of the Barrens. Search
    its top to find a [THUNDERSPARK GEM].
 
@@ -5894,7 +5954,7 @@ TIP: You can now use the 'Seek Treasure' spell to reveal any nearby hidden
    a [POISONER'S HORN].
 
 
-   Russet Isle: 
+   Russet Isle:
    ¯¯¯¯¯¯¯¯¯¯¯¯
    This is the stretched island west of The Barrens (and the Summerlands
    continent). If you haven't been leveling up lately, the enemies can be fairly
@@ -5927,7 +5987,7 @@ TIP: You can now use the 'Seek Treasure' spell to reveal any nearby hidden
  • This one's easy to locate. Have Tengri drop you off at the westernmost tip
    of the plateaus and search the west edge to find [MILK CHOCOLATE x10].
 
- * If you look at your world map (or local map) you'll notice that the plateaus
+ * If you look at your World Map (or local map) you'll notice that the plateaus
    stretch out a little to the south. There are two such plateaus surrounding
    the Temple of Trials and there's a third one to the left/west of those. This
    forage point can be found at the southern tip of this third/western plateau
@@ -5988,7 +6048,7 @@ TIP: You can now use the 'Seek Treasure' spell to reveal any nearby hidden
 
  • From the inscribed stone in the center of the island, move straight south and
    search the mountain walls for a [SKULLFANG RING].
- 
+
  • Head up the northeastern mountain trail and search the dead end up north to
    find a [BEE STING], an excellent spear for your familiars at this point of
    the game.
@@ -6019,20 +6079,20 @@ TIP: You can now use the 'Seek Treasure' spell to reveal any nearby hidden
    home to the Tokotoko creatures - the evolved version of the Toko that you
    may have battled at Ugly Duckling Island - and they give a whopping 8000 EXP
    a piece (and sometimes even appear twice in a single enemy group)!
-   
+
    The other foes in this area are rather strong, so you might want to level up
    at Ugly Duckling Island first, but if you want to risk it, here's an
    excellent way to almost guarantee a fight with a Tokotoko.
-   
+
    Have Tengri drop you off at the city of Perdida and save your game. Scan the
    nearby path to see if the first enemy is a Tokotoko (green creature with a
-   small staff). If not, enter the city and return to the world map until it is.
+   small staff). If not, enter the city and return to the World Map until it is.
    Now be very careful with approaching it; if it sees you it'll definitely run
    away. Stand at a reasonable distance so that it cannot spot you, but also not
    not too far away so you can quickly catch it. When it starts walking towards
    you, prepare yourself to sprint towards it as soon as it turns its back. If
    you're quick, you should be able to catch it off guard.
-   
+
    In the battle, focus solely on the Tokotoko before doing anything else, and
    start with an All-Out Attack. Quickly switch to Swaine - more specifically
    his Hurly - and perform a Sling Stone trick on the Tokotoko (while your
@@ -6091,7 +6151,7 @@ If done successfully, the water in the flooded room is lowered.
 
 Heading south first, you can curve around the western hallway to return to the
 first walkway where you were turned to stone. From here, head east to the room
-just south of the formerly flooded area to collect some treasures. 
+just south of the formerly flooded area to collect some treasures.
 
 TIP: Whatever you do, DO NOT walk in front of the statue from the start of the
 ¯¯¯¯ area again. Otherwise, you'll be back to frogs and have to trek all the way
@@ -6134,6 +6194,8 @@ wrong magical universe.)
 
   REWARDS: 1730 EXP, 2450 G
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/cnjmwno
+  ¯¯¯¯¯¯
 Aapep has some decent tricks up his sleeve, but if you've come prepared you
 should have fair defenses. The Death Rattle and Black Bolt attacks both inflict
 status ailments, curse and confusion respectively. Definitely try to avoid or
@@ -6191,6 +6253,8 @@ tough) boss, so be sure to be ready!
   ATTACKS: 1. Physical Attack [Single Target, Minor Damage]
   ¯¯¯¯¯¯¯¯ 2. Barrel Blast [Single Target, Major Damage, Use Defend!]
 
+  VIDEO: http://tinyurl.com/chwf5dt
+  ¯¯¯¯¯¯
 Even though he's technically strong against physical attacks, you'll be able to
 rack up damage quite a bit faster than waiting and casting spells. Just continue
 with All-Out Attacks and do your best to cancel him so he doesn't get a hit in
@@ -6221,6 +6285,8 @@ MP on him; physical attacks SHOULD be enough to deal him in.
 
   REWARDS: 2380 EXP, 2530 G
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/chwf5dt
+  ¯¯¯¯¯¯
 Before getting too far into the battle, try to make it quick and steal the Night
 Blade.
 
@@ -6297,10 +6363,10 @@ use 'Seek Fortune' if you need help.
  * Head directly east from the last treasure, then up a couple of hills to find
    a forage point, where you can get some [TEALWOOD].
 
- • Hop on Tengri, then go south-southwest; you should see two elevated snowbanks
-   "pointing" west, with a gorge between them. Have Tengri put you down in that
-   lower area with the gorge, then check the dead-end down there for a [DARK
-   CLOUD GEM].
+ • Hop on Tengri, then go south-southwest; you should see two elevated snow
+   banks "pointing" west, with a gorge between them. Have Tengri put you down in
+   that lower area with the gorge, then check the dead-end down there for a
+   [DARK CLOUD GEM].
 
  • Here on this very low level, go north to find a hidden cave known as Sleety
    Hollow. Open the chest inside for a [SNOW-WHITE ICE CREAM], then go all the
@@ -6418,7 +6484,7 @@ ________________________________________________________________________________
 |   500 G | Cheeseburger               ||  5200 G | Tundra Shield              |
 |   800 G | Pixie Dew                  ||         |                            |
 |   800 G | Strong Coffee              ||  4500 G | Wolf Fangs                 |
-|  2000 G | Cappucino                  ||         |                            |
+|  2000 G | Cappuccino                 ||         |                            |
 |   500 G | Phoenix Feather            ||    20 G | Chocolate                  |
 |    20 G | Poison-Be-Gone             ||    20 G | Flan                       |
 |    40 G | Blindness-Be-Gone          ||    20 G | Cake                       |
@@ -6462,7 +6528,7 @@ room for [WILDFLOWER SUNDAE or RUBY RIPPLE ICE CREAM or SEE-THROUGH PIE], then
 head back outside. Just below the entrance on the right is a blue chest with a
 [BLUNT GEM], so grab it, then head directly left of the elder's house to find a
 chest with a [PHOENIX FEATHER]. Check the urn a few steps down from the chest to
-find a [FROSTY FLAN], then talk to the tomte who is ice-fishing just to the
+find a [FROSTY FLAN], then talk to the Tomte who is ice-fishing just to the
 right of the chest. He will give you quite a few more recipes: 016, 021, 026,
 031, 036, 041, 061, 071, 074, 080, 096, 107, and 112.
 
@@ -6631,7 +6697,6 @@ NOTE: There are four pieces of heart you can get here in Yule, and three of them
 |------------.-----------------------------------------------------------------|
 | STAMPS: 4  | REWARDS: [ ] Snowball Gem, [ ] 1500 G                           |
 | ¯¯¯¯¯¯¯    | ENEMIES: Sasquash (054), Papa Sasquash (055), Sasquish (053)    |
-|            | SPOILS: 303 EXP, 406 G                                          |
 |____________|_________________________________________________________________|
 |                                                                              |
 | Your target is on the Sleighbell Isles to the northeast of the main          |
@@ -6674,7 +6739,7 @@ pillar to the east, using it as stepping stone to continue north. Doing so
 causes it to break.
 
 You can still backtrack by heading right/south at the intersection up ahead,
-moving through the hidden tunnel next to the tomte. In any case, continue north
+moving through the hidden tunnel next to the Tomte. In any case, continue north
 until you reach a chasm; cast your Pulse spell to break the stalactites loose
 and use them as stepping stones. The large stalagmites blocking the western
 path can be molten with a dose of Fireball.
@@ -6690,11 +6755,11 @@ down below.
 
 In this lower area are several paths to take. First, move left of the platform
 with the regular chest to find a green chest containing a [HOLY SHIELD]. Now
-head back and take the eastern path going up the hill, moving over the stalacite
-you knocked down just now. To reach the chest, simply cast Pulse again; its
-contents are a [BLUSTER BLADE]. Return to the lower floor, melt the first set of
-stalactites at the narrow path to the east, then run straight through the wall.
-The chest in this hidden section contains a [MEDAL OF AGILITY].
+head back and take the eastern path going up the hill, moving over the
+stalactite you knocked down just now. To reach the chest, simply cast Pulse
+again; its contents are a [BLUSTER BLADE]. Return to the lower floor, melt the
+first set of stalactites at the narrow path to the east, then run straight
+through the wall. The chest in this hidden section has a [MEDAL OF AGILITY].
 
 Melt the other set of stalactites that's blocking the northern path to proceed
 north where you'll reach an intersection. Follow the left/west path to its
@@ -6704,7 +6769,7 @@ to the intersection and follow the eastern path.
 
 After crossing the ice bridge, keep hugging the wall to your right/east until
 you find a hidden passage giving access to a chest with a [SNOWBALL GEM] inside.
-Save your game at the waystone up ahead and prepare yourself for an upcoming
+Save your game at the Waystone up ahead and prepare yourself for an upcoming
 boss battle; definitely equip the Blazing Blade, as well as the water-resisting
 equipment you bought earlier on.
 
@@ -6723,8 +6788,10 @@ equipment you bought earlier on.
 
   REWARDS: 2290 EXP, 2680 G, Spirit of the Snow
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/cml6h49
+  ¯¯¯¯¯¯
 Cerboreas is a swift attacker and his physical attacks will sometimes smash you
-and your familias around the area, cancelling their attacks. Since the creature
+and your familiars around the area, cancelling their attacks. Since the creature
 is weak against fire, casting Fireball repeatedly with Oliver in the early
 stage of the fight can be beneficial; grab the golden glims with Oliver and
 perform him fire-based Burning Heart. Since you can't keep abusing the boss's
@@ -6761,17 +6828,17 @@ NOTE: With the quest for the three stones taken care of, make sure to make a
  ___________________________________
 | ERRAND #061 - Yule Have to Search |
 |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
-| DESCRIPTION: A tomte mother in Yule is worried about her son, whose          |
+| DESCRIPTION: A Tomte mother in Yule is worried about her son, whose          |
 | ¯¯¯¯¯¯¯¯¯¯¯¯ whereabouts are unknown.                                        |
 |------------------------------------------------------------------------------|
-| GOAL: Agree to help the tomte find her son.                                  |
+| GOAL: Agree to help the Tomte find her son.                                  |
 |------------.-----------------------------------------------------------------|
 | STAMPS: 5  | REWARDS: [ ] Medal of Valor, [ ] 2000 G                         |
 | ¯¯¯¯¯¯¯    | ENEMIES: Water Ogrrr (332), Turban Legend (120)                 |
 |____________|_________________________________________________________________|
 |                                                                              |
 | Talk to the purple Tomte standing in the center of the northern part of town |
-| to learn that she's unsure of wherre her son is, so it's Ollie and Drippy to |
+| to learn that she's unsure of where her son is, so it's Ollie and Drippy to  |
 | the rescue.                                                                  |
 |                                                                              |
 | Talk to the little kid near the northern exit of town, and he'll tell you    |
@@ -6810,15 +6877,20 @@ NOTE: With the quest for the three stones taken care of, make sure to make a
 
 
 NOTE: If you've completed all of the errands available up until now, you will
-¯¯¯¯  unlock the 'Humanitarian of the Year' trophy.
+¯¯¯¯  unlock the "Humanitarian of the Year" trophy.
 
 TIP: After this last batch of Errands have been completed, you should be able to
 ¯¯¯¯ afford your first third tier Merit Award! I recommend grabbing the "Jack of
      Hearts" reward, that way you'll have an easier time recruiting familiars.
 
 
-          S E C T I O N   S I X:  T H E   D A R K   D J I N N [WLK-6]
-          ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+|   \ |  \ | |  / |                            S E C T I O N   S I X   [WLK-6] |
+|  .  | .  | . <  |————————————————————————————————————————————————————————————|
+| _|\_|_|\_|_|\_\ |                               T H E   D A R K   D J I N N  |
+|_________________|____________________________________________________________|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
 WORLD MAP EXPLORATION - NORTHERN AUTUMNIA [WLK-6.1]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -6875,7 +6947,7 @@ across so far, there are just a few treasures that we need to grab.
    check the woods to the west before it turns north again to find a [BETTLE
    HORN]. (Use the 'Seek Fortune' spell if you can't pinpoint it.)
 
- • Hop on Tengri, then go northwest of Perdida. You shoud see a small plateau
+ • Hop on Tengri, then go northwest of Perdida. You should see a small plateau
    with a few forests. (If you look closely at your map, you'll see that a small
    path goes east from the western beach on the island, then turns south and
    follows the spiraling path up the mountainside.) Check along the cliff behind
@@ -6921,7 +6993,7 @@ ________________________________________________________________________________
 |   500 G | Cheeseburger               ||  9500 G | Avenger's Shield           |
 |   800 G | Pixie Dew                  ||         |                            |
 |   800 G | Strong Coffee              ||  2400 G | Shining Scales             |
-|  2000 G | Cappucino                  ||         |                            |
+|  2000 G | Cappuccino                 ||         |                            |
 |   500 G | Phoenix Feather            ||    20 G | Chocolate                  |
 |    20 G | Poison-Be-Gone             ||    20 G | Flan                       |
 |    40 G | Blindness-Be-Gone          ||    20 G | Cake                       |
@@ -6993,7 +7065,8 @@ battle with a Nightmare.
                            Defend and All-Out Defense!]
   REWARDS: 2480 EXP, 2850 G, Cherub's Wing
   ¯¯¯¯¯¯¯¯
-
+  VIDEO: http://tinyurl.com/cq6plan
+  ¯¯¯¯¯¯
 As with the last one, the Nightmare is naturally weak to Light, so you can spam
 Arrow of Light if you like, but as usual, I recommend a direct assault with
 several All-Out Attacks with your strongest familiars. With this, you have a
@@ -7020,6 +7093,9 @@ with several new spells: [HEALING HAND], [FORTUNE'S FOOL], and [UNLEASH].
 Unleash is extremely useful; it allows you to summon the Guardians that you have
 defeated in the past to help you in battle, dealing major damage to all enemies!
 Sweet!
+
+NOTE: With the fully restored Mornstar in hand, you'll automatically earn the
+¯¯¯¯¯ "Wonder Wand" trophy.
 
 We're now almost ready to take on Shadar. However, we must first clear the
 miasma, so to do that, we must make the Clarion. The supplies are in each of the
@@ -7306,7 +7382,7 @@ bounties.
 |            | ITEMS: [ ] Hometown Flower                                      |
 |____________|_________________________________________________________________|
 |                                                                              |
-| In Perdida, talk the to girl outside of Swift Solutions looking at the       |
+| In Perdida, talk to the girl outside of Swift Solutions looking at the       |
 | flowers. She had a dream that turns out to be what's going on in Motorville, |
 | and she wants to see the flowers from there. Use 'Gateway' to switch worlds, |
 | then go to the center of town southeast of Ollie's house. Talk to the girl   |
@@ -7412,7 +7488,6 @@ bounties.
 |------------.-----------------------------------------------------------------|
 | STAMPS: 8  | REWARDS: [ ] Bubble Bath Gem x1, [ ] 2500 G                     |
 | ¯¯¯¯¯¯¯    | ENEMIES: Ice Ogrrr (323)                                        |
-|            | SPOILS: 481 EXP, 615 G                                          |
 |____________|_________________________________________________________________|
 |                                                                              |
 | The beast in question is on the frozen lake to the northwest of Yule. Equip  |
@@ -7435,7 +7510,6 @@ bounties.
 |------------.-----------------------------------------------------------------|
 | STAMPS: 8  | REWARDS: [ ] Fiend's Fang, [ ] 2500 G                           |
 | ¯¯¯¯¯¯¯    | ENEMIES: Shellfire (330)                                        |
-|            | SPOILS: 453 EXP, 650 G                                          |
 |____________|_________________________________________________________________|
 |                                                                              |
 | Your target is in the far northwest of the Rolling Hills, in the area west   |
@@ -7458,7 +7532,6 @@ bounties.
 |------------.-----------------------------------------------------------------|
 | STAMPS: 8  | REWARDS: [ ] Heat Ray Gem, [ ] 2500 G                           |
 | ¯¯¯¯¯¯¯    | ENEMIES: Magmadonna (303)                                       |
-|            | SPOILS: 467 EXP, 633 G                                          |
 |____________|_________________________________________________________________|
 |                                                                              |
 | If you have any fire-resisting equipment and/or water based weapons, equip   |
@@ -7533,7 +7606,8 @@ you. He's not waiting to show you something awesome this time...
                               Status Effects, try to cancel!]
   REWARDS: 2630 EXP, 2980 G
   ¯¯¯¯¯¯¯¯
-
+  VIDEO: http://tinyurl.com/coe6jhv
+  ¯¯¯¯¯¯
 As with the last one, the Nightmare is naturally weak to Light, so you can spam
 Arrow of Light if you like, but as usual, I recommend a direct assault with
 several All-Out Attacks with your strongest familiars. With this, you have a
@@ -7664,11 +7738,11 @@ you can complete before moving on.
 | ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
 |____________|_________________________________________________________________|
 |                                                                              |
-| In Perdida, the kid taking care of of the llapacas to the right of the       |
-| entrance is having a hard time dealing with what he sees to be as his own    |
-| failure. He needs some ambition, so go to the northernmost section of town   |
-| and talk to the little girl here to borrow some of hers. Take it back to the |
-| boy to earn your reward.                                                     |
+| In Perdida, the kid taking care of the llapacas to the right of the entrance |
+| is having a hard time dealing with what he sees to be as his own failure. He |
+| needs some ambition, so go to the northernmost section of town and talk to   |
+| the little girl here to borrow some of hers. Take it back to the boy to earn |
+| your reward.                                                                 |
 |______________________________________________________________________________|
 
  _________________________________
@@ -7757,7 +7831,7 @@ for an [ALL-BE-GONE].
 
 Head down from that chest now, and you'll soon come to an open area / awkward
 fork in the path. Take a few steps north, then turn east to find a red chest
-near the water with a [FRUIT FLAN] inside. Turnleft, then you'll be at another
+near the water with a [FRUIT FLAN] inside. Turn left, then you'll be at another
 split as you go up. Continue up, then go right and down to find a blue chest at
 a dead-end; unlock it for a [FIEND'S FANG].
 
@@ -7785,7 +7859,8 @@ Use it, then proceed northwest to take on the evil Vileheart.
                           and All-Out Defense!]
   REWARDS: 2840 EXP, 3140 G
   ¯¯¯¯¯¯¯¯
-
+  VIDEO: http://tinyurl.com/bn4ug34
+  ¯¯¯¯¯¯
 Right off the bat, switch to Swaine and be sure to steal that Barrier Badge! It
 gives an enormous boost to defense and magic defense when equipped!
 
@@ -7815,7 +7890,7 @@ major way.
 You'll eventually regain control of Esther in Perdida. Head south to the exit
 for another long set of scenes between Esther and Swaine, then with Oliver. It
 will all lead to another battle with Vileheart, but this time, with the ultimate
-[MORNSTAR] spell in his posession!
+[MORNSTAR] spell in his possession!
 
  _______________________
 | BOSS FIGHT: VILEHEART |
@@ -7842,7 +7917,7 @@ of Vile Breath, and it's Vile Roar. It'll attack everyone while inflicting
 Curse, so defend against it like you would for the Viledriver to minimize
 damage.
 
-For your attacks, just control Oliver and stay as far away from Vilehart as you
+For your attacks, just control Oliver and stay as far away from Vileheart as you
 can, continuously casting Mornstar until it wipes him completely out! It should
 only take a handful of turns!
 
@@ -7853,30 +7928,39 @@ you're ready, use 'Travel' to go back to the Miasma Marshes, then proceed to the
 magic circle in front of you. It'll take you back to where you fought Vileheart,
 so from there, just travel northwest and follow the path to enter Nevermore!
 
+TIP: You can pay a visit to Old Father Oak again if you like. You don't get any
+¯¯¯¯ items this time, but you do unlock some more dialogue.
+
 
 NEVERMORE CASTLE - DWELLING PLACE OF DESPAIR [WLK-6.5]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ITEMS: [ ] Sage's Secret, [ ] Phoenix Breath, [ ] Sprite Dew, [ ] Dragon Lance,
-¯¯¯¯¯¯ [ ] Shield of the Pure, [ ] Griffin's Teeth, [ ] Nostrum, 
+¯¯¯¯¯¯ [ ] Shield of the Pure, [ ] Griffin's Teeth, [ ] Nostrum,
        [ ] Boarlord's Armor, [ ] Giant's Ax, [ ] All-Be-Gone,
        [ ] Radiant Blade, [ ] Great Sage's Secret, [ ] Alicia's Pendant
 
-PAGES: [ ] Evenstar
+PAGES: [ ] 65 (Evenstar)
 ¯¯¯¯¯¯
+
+ENEMIES: Turnkey (130), Bone Brigadier (287), Steam-Man (147),
+¯¯¯¯¯¯¯¯ Eldritch Empress (255), Bougieman (276), Gruffian (023),
+         Hoggle-Boggle (271), Phantasma (283), Ghost Wisperer (278),
+         Gobforsaken (012), Shadar (373) (*), Eternal Knight (371) (*),
+         Dark Djinn (374) (*)
 ________________________________________________________________________________
 
 If you haven't been leveling up all that much lately, it's a good idea to build
-some levels by hanging out at the valley of Perdida, slaughtering Tokotoko's
+some levels by hanging out at the valley of Perdida, slaughtering Tokotokos
 with the help of the Veil spell (gotten from Horace in Perdida). Remember that
 these green little staff-wielding creatures give 8000 experience a piece, which
-should allow you to hit the mid 50s easily. Try to be around level 50 and view
+should allow you to hit the mid-50s easily. Try to be around level 50 and view
 that as baseline minimum to get through Nevermore Castle without a ridiculous
 amount of struggle. If you can spare the 30 to 45 minutes leveling up, late 50s
 will make things considerably easier - it's up to you.
 
 Travel to the entrance of The Miasma Marshes and use the teleport circle to
 warp to its northern end, granting immediate access to Nevermore Castle up
-ahead. Save your game at the waystone and enter through the creepy gate...
+ahead. Save your game at the Waystone and enter through the creepy gate...
 
 1st Floor
 ¯¯¯¯¯¯¯¯¯
@@ -7899,10 +7983,10 @@ to one of your familiars immediately. Return to the intersection take the right
 (south) flight of stairs.
 
 Of course, the camera still turns to strange angles here; closely follow our
-directions on your minimap. You'll get at a three-way intersection. First head
-left/south to find a [SHIELD OF THE PURE] inside a chest (on the left side of
-the next intersection, the other side leads to a dead end). Back at the three-
-way intersection, head straight/west to find a chest with some [GRIFFIN'S
+directions on your mini map. You'll get at a three-way intersection. First head
+left/south to find a [SHIELD OF THE PURE] inside a chest (on the left/east side
+of the next intersection, the other side leads to a dead end). Back at the
+three- way intersection, head straight/west to find a chest with some [GRIFFIN'S
 TEETH]. Finally, head right/north to reach another intersection and a set of
 doors.
 
@@ -7921,15 +8005,15 @@ doors only lead to a dead end, but the third reveal a Crystal Ball that allows
 you to continue further west. Be sure to open the purple chest to the south
 before going upstairs; it contains a fine [RADIANT BLADE], which drains 10% of
 the damage inflicted to enemies, healing you with it. Upstairs you'll find a
-chest with a [GREAT SAGE'S SECRET] inside to the left of the doors. Go through
+chest with a [GREAT SAGE'S SECRET] outside to the left of the doors. Go through
 the doors and activate the final Crystal Ball, revealing a large set of stairs
-in the circular chamber, leading the the third and final floor of Nevermore.
+in the circular chamber, leading the third and final floor of Nevermore.
 
-Shadar The Dark Djinnn
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-It's time to finally face Shadar, but be sure to save your game at the waystone
+Shadar The Dark Djinn
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+It's time to finally face Shadar, but be sure to save your game at the Waystone
 first and prepare yourself for a series of rather tough fights - what'd you
-expect? It *is* the Dark Djinnn, the Executor himself, after all.
+expect? It *is* the Dark Djinn, the Executor himself, after all.
 
  ____________________
 | BOSS FIGHT: SHADAR |
@@ -7945,7 +8029,7 @@ expect? It *is* the Dark Djinnn, the Executor himself, after all.
 
 Shadar has powerful tricks up his sleeves, although some are definitely more
 powerful than others. Pyre only hits a single target, so if you see Shadar
-preparing this have the targetted character defend (or prepare to heal them).
+preparing this have the targeted character defend (or prepare to heal them).
 Fell Wind is a ranged attack, so staying away from Shadar helps avoiding it.
 Bleak Midwinter, on the other hand, is a very powerful attack that hits everyone
 no matter where they're standing, so *always* order an All-Out Defense and
@@ -7953,7 +8037,7 @@ Defend with your current character when you see Shadar preparing it.
 
 His Evenstar attack is his most powerful trick. Although defending against it
 works okay, a much better strategy is to cancel the attack altogether. You'll
-have to do this with your Mornstat spell. The only problem is that Mornstar
+have to do this with your Mornstar spell. The only problem is that Mornstar
 takes a while to cast, at which point Shadar will already have unleashed his
 deadly Evenstar. Fortunately, Shadar only casts Evenstar after warping close to
 his throne and using Fell Wind. Avoid the latter by moving away from him and
@@ -8025,38 +8109,50 @@ standing far away from Shadar, or defend against (including an All-Out Defense
 if possible).
 
 His most devastating attack - by far - is the World's End move. IMMEDIATELY
-order an All-Out Defense and Defend with your currect character, since it is
+order an All-Out Defense and Defend with your current character, since it is
 potentially powerful enough to wipe you out. Fortunately for you, Shadar won't
 use it too often, and successfully defending against it leaves the Djinn
 defenseless, allowing you to order an All-Out Attack for a short while, boosting
 your chances for getting golden glims.
 
 Remember that this is a tough series of fights, and there's no shame in using
-good healing items every once in a while, such as a Phoenix Down (or even Tear)
-when an ally has fallen, or Sprite Dew to give your entire party a great health
-boost, not to mention the delicious espresso's - not that you'd fall asleep
-during this battle, but the MP boost will come in handy.
+good healing items every once in a while, such as a Phoenix Feather (or even
+Tear) when an ally has fallen, or Sprite Dew to give your entire party a great
+health boost, not to mention the delicious espresso's - not that you'd fall
+asleep during this battle, but the MP boost will come in handy.
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+NOTE: After the battle, you'll earn the "A Tonic for the Djinn" trophy for
+¯¯¯¯¯ finally defeating Shadar.
 
 After the battles, a *lot* of scenes will play, and you'll receive [EVENSTAR],
 Shadar's powerful spell, as well as [ALICIA'S PENDANT]. When you finally get
 to control Oliver once again, head to King Tom and speak with him twice to
-trigger more cutscenes. 
+trigger more cut scenes.
 
 
-S E C T I O N  S E V E N:  W R A T H   O F  T H E   W H I T E  W I T C H [WLK-7]
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ ______________________________________________________________________________
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+|   \ |  \ | |  / |                        S E C T I O N   S E V E N   [WLK-7] |
+|  .  | .  | . <  |————————————————————————————————————————————————————————————|
+| _|\_|_|\_|_|\_\ |           W R A T H   O F   T H E   W H I T E   W I T C H  |
+|_________________|____________________________________________________________|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
 RESTORING THE KINGDOMS [WLK-7.1]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-ITEMS: [ ] Flower of Youth, [ ] 
+ITEMS: [ ] Flower of Youth, [ ] Great Sage's Secret, [ ] Phoenix Tear x3,
+¯¯¯¯¯¯ [ ] Firewall Gem, [ ] Snowblower Gem, [ ] Thunderstorm Gem,
+       [ ] Flower of Faith, [ ] Flower of Hope, [ ] Wizard King's Secret
+
+PAGES: [ ] 308-310 (The Twelfth Tale), [ ] 59 (Thunderstorm)
 ¯¯¯¯¯¯
 
-PAGES: [ ] The Young Woman's Journal, [ ] Thunderstorm
-¯¯¯¯¯¯
+FORMULAE: 129
+¯¯¯¯¯¯¯¯¯
 
-ENEMIES: King Tom XIV (*), Queen Lowlah (*), Porco Loco (*)
-¯¯¯¯¯¯¯¯
+ENEMIES: Wretch (387-396), King Tom XIV (375) (*), Queen Lowlah (376) (*),
+¯¯¯¯¯¯¯¯ Porco Loco (377) (*)
 ________________________________________________________________________________
 
 
@@ -8068,14 +8164,14 @@ Do so and head to Oliver's house to the south. Go inside his room to find Pea;
 afterward, head inside his mother's room and check the drawers in the lower
 corner of the screen to find a new page for your Wizard's Companion [THE YOUNG
 WOMAN'S JOURNAL]. When you've done that, cast Gateway to head back to Another
-World. 
+World.
 
-You'll return to Ding Dong Dell after various scenes, and you'll have to detroy
+You'll return to Ding Dong Dell after various scenes, and you'll have to destroy
 the crystal producing the foul manna, so head directly for the King's Castle
 (there are no new treasures to be found). Unfortunately, the Veil spell doesn't
 currently work, so you'll have to avoid enemies manually should you desire it.
-Be sure to save your game at the waystone right before entering the castle,
-because a boss fight is coming up. 
+Be sure to save your game at the Waystone right before entering the castle,
+because a boss fight is coming up.
 
  __________________________
 | BOSS FIGHT: KING TOM XIV |
@@ -8089,11 +8185,12 @@ because a boss fight is coming up.
                            All-Out Defense!]
            4. Cat Slap [One Target, Major Damage]
            5. Itchy Scratchy [All Targets, Major Damage, Inflicts Poison,
-                              Use Defens & All-Out Defense!]
+                              Use Defense & All-Out Defense!]
 
   REWARDS: 3900 EXP, 4200 G
   ¯¯¯¯¯¯¯¯
-
+  VIDEO: http://tinyurl.com/bnl99c6
+  ¯¯¯¯¯¯
 It's important to know that once you've depleted the kind's health bar, it will
 refill again completely, leading the battle into a second, much more difficult
 stage. Definitely play defensively whenever you see Crazy Claws being prepared.
@@ -8106,6 +8203,9 @@ against, since it deals major damage and also inflicts your characters with
 poison. Keep your health up with powerful healing spells and items and don't be
 afraid to use Phoenix Feathers when required.
 
+If you feel you have enough time, try to steal the Cat King's Claws with Swaine.
+Otherwise, work on trying to sneak your familiars in there with a few barrages
+of physical attacks, healing as necessary.
 
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
@@ -8115,6 +8215,14 @@ You'll also receive the [FLOWER OF YOUTH].
 TIP: You can go visit Horace at the monument to the northeast of the town square
 ¯¯¯¯ and solve another riddle; this time the answer is: Unleash. You'll be
      given the [THUNDERSTORM] spell.
+
+     Also, take the time to visit Old Father Oak in the Deep Dark Wood. He has
+     a [GREAT SAGE'S SECRET] to give you to help you on your journey.
+
+     Finally, make sure to visit your local familiar retreat and talk to your
+     representative; he witnessed your battle with Shadar, and has some rewards
+     for you: [PHOENIX TEAR x3], [FIREWALL GEM], [SNOWBLOWER GEM], and a
+     [THUNDERSTORM GEM].
 
 Now travel to Al Mamoon and make your way to the castle, only to find out that
 her Moojesty has also been converted into a horrible creature (to think that it
@@ -8136,7 +8244,8 @@ was possible, but alas... yes.)
 
   REWARDS: 4100 EXP, 4200 G
   ¯¯¯¯¯¯¯¯
-
+  VIDEO: http://tinyurl.com/bnl99c6
+  ¯¯¯¯¯¯
 Again, it's important to know that Queen Lowlah too will heal her health bar in
 it entirety after depleting it once, as the second stage of the battle starts.
 The first stage shouldn't be too difficult; you'll want to move to the queen's
@@ -8159,11 +8268,13 @@ stick with the strategy from the first half, victory will be yours.
 
 After the battle, various scenes play. You'll also receive the [FLOWER OF
 FAITH]. It's now time to restore the third kingdom, Hamelin, so travel there
-and start making your way to the far north of town. Heal up at the waystone and
+and start making your way to the far north of town. Heal up at the Waystone and
 prepare yourself for another tough boss battle.
 
 NOTE: This is your last chance to battle wretches. If you're aiming for a
-¯¯¯¯¯ complete file, be sure to battle all (ten) varieties now before moving on.
+¯¯¯¯¯ complete file, be sure to battle all ten varieties now before moving on.
+      (Check your Creature Compendium from the Telling Stone to make sure you
+      have 387-396.)
 
 Before you move to the palace's main hall, you'll want to equip your fighters
 with storm-based weapons, even if they're slightly worse in terms of attack
@@ -8184,6 +8295,8 @@ Hamelin's most deadly machine, Porco Loco.
 
   REWARDS: 4200 EXP, 4200 G
   ¯¯¯¯¯¯¯¯
+  VIDEO: http://tinyurl.com/bnl99c6
+  ¯¯¯¯¯¯
 The fight against Porco Loco - again - consists of two phases, the first being
 considerably easier than the second. Its physical attacks aren't too powerful,
 and its Pigswill trick (and Pigshot in the second phase) only targets a single
@@ -8199,15 +8312,333 @@ you plenty of time for a flurry of attacks, cutting golden glims loose in the
 process.
 
 Stay healthy in the second phase of the fight, and keep fighting offensively
-unless the boss prepares Pork Scrappings; timely switch to an All-Out Defense 
+unless the boss prepares Pork Scrappings; timely switch to an All-Out Defense
 and you should make it out of the fight alive.
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-You'll receive various alchemy formulae after the fight, as well as the [FLOWER
-OF HOPE]. After the scenes you can finally make your way to the hidden continent
-on the southwest of the world map.
+
+You'll receive a formula after the fight (129) for a new weapon for Swaine, as
+well as the [FLOWER OF HOPE]. After the scenes, you can finally make your way to
+the hidden continent on the southwest of the World Map.
+
+TIP: For Swaine's Highwayman's Handgun, you'll need the Gyro-Grappler you just
+¯¯¯¯ received, 2 Drill Screws (which you probably already have already picked up
+     from forage points near Skull Mountain) and 1 Blowpipe. You can get this in
+     the next story area, The Ivory Tower.
+
+     Also, make sure to stop in at The Deep Dark Wood and talk to Old Father Oak
+     again. He has the awesome [WIZARD KING'S SECRET] to give to you.
 
 
-THE IVORY TOWER [WLK-7.2]
+NAZCAÄ [WLK-7.2]
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ITEMS: [ ] Sprite Dew, [ ] Necromancer's Mantle, [ ] White Stag's Antler,
+¯¯¯¯¯¯ [ ] Harrowfang, [ ] All-Seeing Eye
+
+*ITEMS: [ ] Ritestone, [ ] Old Oak Leaves, [ ] Ritestone, [ ] Old Oak Leaves
+¯¯¯¯¯¯¯
+
+ENEMIES: Eggyptian, Hierophant, Full Boar, Sweetpea Sprite, Petramander,
+¯¯¯¯¯¯¯¯ Batterhorn, Relixx, Florid Floret, Paleolith, Fightingale, Baarndancer,
+         Scruffian, Supercogductor, Nightcap, Starshade, Weaver Diva
+________________________________________________________________________________
+
+We have some more errands to take care of now, and after a short series of
+events, we'll be able to take on some more before finishing up the main story,
+so let's get started! Talk to Pea when you're ready to depart with Tengri.
+
+
+***  ERRANDS / BOUNTIES  ***
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • Errand #065 - The Cat's Whiskers
+ • Errand #066 - The Artist's Muse
+ • Errand #067 - Curry in a Hurry
+ • Errand #068 - Wakey, Wakey
+
+ __________________________________
+| ERRAND #065 - The Cat's Whiskers |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A Ding Dong Dell gatekeeper has had his precious Cat's Whiskers |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ stolen by a monster.                                            |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to help the gatekeeper.                                          |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 8  | REWARDS: [ ] Radiant Blade, [ ] 3000 G                          |
+| ¯¯¯¯¯¯¯    | ITEMS: [ ] Cat's Whiskers                                       |
+|            | ENEMIES: Rhinobore                                              |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Ding Dong Dell, talk to the guard on the right at the entrance to find    |
+| out that he lost his Cat's Whiskers, so we need to get them back for him. Go |
+| out onto the World Map, then make your way to the area that you had to make  |
+| a bridge for to the west of The Deep Dark Wood. At the southern part of this |
+| area (directly southwest of The Deep Dark Wood) is a large yellow creature.  |
+| Encounter and beat this Igneous Supremous to obtain the [CAT'S WHISKERS].    |
+| (Using Water attacks will drop it quickly.) Afterward, return it to the      |
+| guard for your reward.                                                       |
+|______________________________________________________________________________|
+
+ _________________________________
+| ERRAND #066 - The Artist's Muse |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A Mamooni artist is looking for a model who can inspire him to  |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ complete his latest work.                                       |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to help the painter.                                             |
+| UNLOCK REQUIREMENT: Complete Errand #022.                                    |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 6  | REWARDS: [ ] Shield of the Pure, [ ] 3000 G                     |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Al Mamoon, make your way to the Cat's Cradle and talk to Con the Artist   |
+| on the left. He wants you to find a wild girl with short hair and a          |
+| necklace... Yeah, like we haven't seen a dozen or so of them throughout the  |
+| game in different forest glades!                                             |
+|                                                                              |
+| The one he wants is in the forest glade on Turtle Crag isle. Travel to Yule, |
+| then fly directly south to Turtle Crag isle, and remember that the forest    |
+| glade is the northernmost forest on the island, on the eastern side. Talk to |
+| the girl in here and you'll both automatically head back to Al Mamoon. Talk  |
+| to Con once again to wrap it up.                                             |
+|______________________________________________________________________________|
+
+ ________________________________
+| ERRAND #067 - Curry in a Hurry |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: The owner of the Raj Mahal curry stall is too busy to deliver   |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ all the orders he's receiving.                                  |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to help deliver some curries.                                    |
+| UNLOCK REQUIREMENT: Complete Errand #048.                                    |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 8  | REWARDS: [ ] Tikka Mahala x20, [ ] 3000 G                       |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Al Mamoon, talk to Raj at the curry stand by the milk fountain on the     |
+| right. He needs help delivering his curry, so agree to help. You need to     |
+| visit the following people, in this order, one at a time, then return to Raj |
+| to obtain more food for delivery:                                            |
+|                                                                              |
+| • Sheikh of Spice (Al Mamoon, outside of Swift Solutions)                    |
+| • Governor (Castaway Cove, on the eastern docks)                             |
+| • William Abel (Hamelin, the owner of the Black Market)                      |
+| • Bartender (Tombstone Trail's Casino, in the back right)                    |
+| • Wild Man (Forest Glade, far west of The Deep Dark Wood, then south to a    |
+|             dead-end at the base of the mountains)                           |
+|                                                                              |
+| Return to Raj after you've made all five deliveries to collect the goodies.  |
+|______________________________________________________________________________|
+
+ ____________________________
+| ERRAND #068 - Wakey, Wakey |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A Hamelin man is having great difficulty staying awake, and has |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ requested your help.                                            |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to help the sleepy man.                                          |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 7  | REWARDS: [ ] Dragon Lance, [ ] 3000 G                           |
+| ¯¯¯¯¯¯¯    | ITEMS: ---                                                      |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Hamelin, talk to the man walking between Swift Solutions and the          |
+| Cawtermaster's Store to find out that he's been oversleeping. To help him    |
+| out, you need to get several items for him:                                  |
+|                                                                              |
+| • Sleep-Be-Gone (Hamelin's Hootique)                                         |
+| • Cappuccino (Perdida's Peddler)                                             |
+| • Rise and Shine Gem (You should have one from Errand #018 or on the beach   |
+|                       of the Hermit's Shell, to the southeast. If not, or if |
+|                       you already used one or both of them, then catch a     |
+|                       Turbandit and get him to Level 7 to learn the spell.)  |
+|                                                                              |
+| Once you have all of these, talk to the man again several times. As long as  |
+| you have the first two items, and a familiar in your active party has the    |
+| Rise and Shine spell, you'll be able to cure the man.                        |
+|______________________________________________________________________________|
+
+
+With those three out of the way, let's progress the story just a bit more to
+unlock the rest available before the end of the game.
+
+Hop on Tengri, then make your way to the continent to the far southwest that
+used to be covered in fog: Nazcaä.
+
+
+Nazcaä
+¯¯¯¯¯¯
+You should've done all of your exploring on the surrounding islands beforehand,
+so all that should be left is the main continent.
+
+Tengri can only land at the drawing of a bird in the southeast corner of the
+island, so you'll have to circle all the way around this isle to reach the
+actual tower. Of course, there are also lots of treasures to be had on the
+island itself:
+
+ • On the "head" of the bird drawing on the ground is a bottle of [SPRITE DEW].
+
+ * Head south down the hill, then proceed northwest through the valley. On your
+   right on a small hill, you should see a forage point with a [RITESTONE].
+
+ * Directly west of the last forage point is another on a larger hill; check
+   this one for some [OLD OAK LEAVES].
+
+ • Northwest of the last forage point and across the pond there is another
+   hidden treasure; examine the western edge at the base of the mountain there
+   to find a [NECROMANCER'S MANTLE].
+
+ • Continue to the northwest to come across a small stream. Search the rocks at
+   the edge of the stream before it pours down as a waterfall to find a
+   [WHITE STAG'S ANTLER].
+
+ * Even further northwest is another stream; follow this one to the north to see
+   an island form in the middle of it to find a [RITESTONE] at the forage point.
+
+ • At the furthest (walkable) point to the north is a waterfall; examine the
+   base for a [HARROWFANG].
+
+ * Directly west of the waterfall at the top of the pond here is another forage
+   point; check it for some [OLD OAK LEAVES].
+
+ • The last hidden treasure on the World Map is south of the last forage point.
+   The path will go south, then as it turns southeast, look at the edge of the
+   cliff to the west/southwest there for a [ALL-SEEING EYE]. (Use Seek Fortune
+   if you have trouble finding it.)
+
+NOTE: Upon picking up the very last hidden treasure listed above, you should
+¯¯¯¯¯ earn the "Treasure Hunter" trophy. Check the Progress Report under the
+      Telling Stone to see how many you do have if you don't have 100/100. If
+      you're missing any, start Traveling from city to city on each continent,
+      casting the 'Seek Fortune' spell and looking on your map to see if there
+      are any in the area.
+
+Continue following the path until you finally reach the ruins. Right before
+entering, you'll notice a faded picture of another bird; use Rejuvenate to
+restore it, creating a second landing platform for Tengri. After creating a
+Bridge, enter Ara Memoriae.
+
+
+Ara Memoriae
+¯¯¯¯¯¯¯¯¯¯¯¯
+Put the three flowers inside the pots and inspect the altar in the middle.
+Naturally, cut scenes will play. Speak with Kublai afterward and rest up.
+After this, speak with Marcassin (twice) to begin an assault on the Ivory Tower.
+Oliver and crew will enter the tower with Tengri, whom you can always speak to
+if you want to leave the place. Of course, that's what you want to do, since we
+just unlocked the last set of Errands and Bounties before the final dungeon.
+
+Choose to enter, watch the cut scenes, then when you regain control, hop back on
+Tengri to leave.
+
+TIP: Before taking on those errands, visit Old Father Oak for the last time. You
+¯¯¯¯ won't receive anything special, but you will see the last of the new
+     dialogue.
+
+
+***  ERRANDS / BOUNTIES  ***
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+ • Errand #084 - Notes from the Fog
+ • Bounty #110 - Vicious Venom
+ • Bounty #111 - Save the Researchers
+ • Bounty #112 - Terror on the Tundra
+
+ __________________________________
+| ERRAND #084 - Notes from the Fog |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A man visiting Castaway Cove is rather flustered. Against all   |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ expectation, it would see he's misplaced his diary.             |
+|------------------------------------------------------------------------------|
+| GOAL: Agree to look for the missing diary.                                   |
+| UNLOCK REQUIREMENT: Complete Errand #83.                                     |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 7  | REWARDS: [ ] Diva's Mantle, [ ] 3000 G                          |
+| ¯¯¯¯¯¯¯    | ITEMS: [ ] Traveler's Diary                                     |
+|____________|_________________________________________________________________|
+|                                                                              |
+| In Castaway Cove, you'll find our good buddy, the writer, standing on the    |
+| bridge to the east. He's lost his diary - AGAIN - so let's find it.          |
+|                                                                              |
+| Travel to Ara Memoriae, then make your way northwest. As the path turns      |
+| north, you should see three large skulls, as well as a drawing of an even    |
+| larger skull on the ground. Search the skull just to the east of the drawing |
+| to find the [TRAVELER'S DIARY]. Return to Castaway Cove for the return.      |
+|______________________________________________________________________________|
+
+ _____________________________
+| BOUNTY #110 - Vicious Venom |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A mysterious beast has been spreading poison across the         |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ Spindle... Stop it before it gets to Hamelin!                   |
+|------------------------------------------------------------------------------|
+| LAST SEEN: On the Spindle (Eastern Autumnia)                                 |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 8  | REWARDS: [ ] Darkness Beckons Gem, [ ] 3000 G                   |
+| ¯¯¯¯¯¯¯    | ENEMIES: Smoggy Fug                                             |
+|____________|_________________________________________________________________|
+|                                                                              |
+| Your target is on the Spindle, which is the small island northeast of        |
+| Hamelin. Land on the southern part of the island, then take on the beast!    |
+|                                                                              |
+| The Smoggy Fug is weak to Storm, so equip your Bluster Blades and switch to  |
+| your Drongo-type familiar, blasting him with its most powerful Storm spells. |
+| It has a decent amount of HP, so the battle might drag on for a bit; if so,  |
+| be sure to stay healed, especially with the poison draining your HP quickly. |
+|______________________________________________________________________________|
+
+ ____________________________________
+| BOUNTY #111 - Save the Researchers |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: A team of researchers investigating the Ara Memoriae have come  |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ under attack! Deal with their assailant!                        |
+|------------------------------------------------------------------------------|
+| LAST SEEN: In Front of the Ara Memoriae (Nazcaä)                             |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 8  | REWARDS: [ ] Cat King's Claws, [ ] 3000 G                       |
+| ¯¯¯¯¯¯¯    | ENEMIES: Doric Collum                                           |
+|____________|_________________________________________________________________|
+|                                                                              |
+| From Ara Memoriae, your target is RIGHT IN FRONT OF YOU. The battle itself   |
+| isn't as hard as the one against the Smoggy Fug; it has the same weakness as |
+| well, so equip your familiars with Storm-elemental weapons and control your  |
+| Drongo-type familiar and blast away at him with those Storm spells for an    |
+| easy victory.
+|______________________________________________________________________________|
+
+ ____________________________________
+| BOUNTY #112 - Terror on the Tundra |
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+| DESCRIPTION: An exceptionally dangerous beast has taken up residence on      |
+| ¯¯¯¯¯¯¯¯¯¯¯¯ Scrooge Island. Is anyone brave enough to take it on!?          |
+|------------------------------------------------------------------------------|
+| LAST SEEN: On Scrooge Island (Southern Winter Isles)                         |
+|------------.-----------------------------------------------------------------|
+| STAMPS: 8  | REWARDS: [ ] Earsplitter Gem, [ ] 3000 G                        |
+| ¯¯¯¯¯¯¯    | ENEMIES: Celestius Primus                                       |
+|____________|_________________________________________________________________|
+|                                                                              |
+| Your target is on Scrooge Island to the southwest of Yule (the bottom island |
+| of the two), so fly from Yule and have Tengri drop you off at the center.    |
+| The big beastie will be walking nearby.                                      |
+|                                                                              |
+| Equip your Blazing Blades for this one, as he's weak to Fire. This guy is a  |
+| bit stronger than the last two, and has some pretty strong Water spells, so  |
+| have Oliver keep Ward on your party when it needs to be cast, and have him   |
+| attack with his strongest familiar when it's not needed. Knock a gold glim   |
+| out of him during the melee and have Oliver grab it, and Burning Heart will  |
+| bring it to an end much quicker.                                             |
+|______________________________________________________________________________|
+
+
+With all of those Errands and Bounties under your belt, cash in your Stamp Cards
+for another couple of rewards. (You should already have 'Jack the Giant Killer',
+so I recommend 'Crackerjack II' and 'Jack-of-all-Trades'.
+
+Once you have them, it's time to finish this once and for all. Back to the Ivory
+Tower! (It's southeast of Ding Dong Dell.)
+
+
+THE IVORY TOWER - SEAT OF THE WHITE WITCH [WLK-7.3]
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ITEMS: [ ] Griffin's Talons, [ ] Celestial Armor, [ ] Great Sage's Secret,
 ¯¯¯¯¯¯ [ ] Sprite Dew, [ ] Phoenix Tear, [ ] Glorious Lance, [ ] Astra,
@@ -8215,34 +8646,20 @@ ITEMS: [ ] Griffin's Talons, [ ] Celestial Armor, [ ] Great Sage's Secret,
 
 ________________________________________________________________________________
 
-Talk to Pea when you're ready to depart with Tengri. The Ivory Tower is located
-on The Spring Realm, on the southwest of the world map. Tengri can only land at
-the drawing of a bird in the southeast corner of the island, so you'll have to
-circle all the way around this isle to reach the actual tower. Right before
-entering you'll notice a faded picture of another bird; use Rejuvenate to
-restore it, creating a second landing platform for Tengri. After creating a
-Bridge, enter Ara Memoriae.
-
-Put the three flowers iside the pots and inspect the altar in the middle.
-Naturally, cutscenes will play. Speak with Kublai afterward and rest up.
-After this, speak with Marcassin (twice) to begin an assault on the Ivory Tower.
-Oliver and crew will enter the tower with Tengri, whom you can always speak to
-if you want to leave the place.
-
 There are a lot of great items to be found here, so it's well worth exploring
 the entire area, opening all chests. We'll start exploring the west section
 first. From the waypoint at the end of the main hall, head west. At the north
-end of the first hall way is a purple chest that contains [GRIFFIN'S TALONS], 
+end of the first hall way is a purple chest that contains [GRIFFIN'S TALONS],
 which are great claws. Continue to the far southwest of the hallways to find a
 chest containing [CELESTIAL ARMOR], which is a great piece of equipment. The
 dead ends to the north and south don't house any chests, but there's a
 teleporter to the northwest that gives access to a balcony containing a chest
-with a [GREAT SAGE'S SECRET] inside. Return to the waystone in the main hall
+with a [GREAT SAGE'S SECRET] inside. Return to the Waystone in the main hall
 (as you've fully explored the western section of this floor).
 
-From the main hall, head east, and at the intersection continue to the 
+From the main hall, head east, and at the intersection continue to the
 teleported in the far northeast of the area (the southeast teleporter leads to
-a vacant balcony, and there are no other items in that area either). 
+a vacant balcony, and there are no other items in that area either).
 
 NOTE: From now on, some Magimechs will activate and attack you. They're rather
 ¯¯¯¯¯ strong, so if you want to avoid them it's best to cast the Veil spell
@@ -8254,7 +8671,7 @@ north of the walkway to find a chest with a [PHOENIX TEAR]. Be sure to shimmy
 over the ledge to the left/west side of the northwest walkway; at the end is a
 small platform, and if you turn around you can spot a green chest that contains
 a GLORIOUS LANCE]. Return to the walkway and shimmy over the ledge to the
-southwest, leading to a waystone. Be sure to save your game before you proceed.
+southwest, leading to a Waystone. Be sure to save your game before you proceed.
 
  ____________________
 | BOSS FIGHT: GALLUS |
@@ -8262,7 +8679,7 @@ southwest, leading to a waystone. Be sure to save your game before you proceed.
   STATS:   9700 HP, Weak against: Varies, Resists: Varies
   ¯¯¯¯¯¯   Steal: Jumbo Moondrop
 
-  ATTACKS: 1. Physical Attack 
+  ATTACKS: 1. Physical Attack
   ¯¯¯¯¯¯¯¯ 2. Terra Infirma [Single Target, Physical, Medium Damage]
            3. Fire Trident [Ranged, Fire Element, Try to avoid]
            4. Bolt of Judgment [Ranged, Forms damaging areas, Storm Element,
@@ -8272,7 +8689,9 @@ southwest, leading to a waystone. Be sure to save your game before you proceed.
 
   REWARDS: 4850 EXP, 4600 G
   ¯¯¯¯¯¯¯¯
-The fight with Gallas shouldn't be too hard if you know what you're doing.
+  VIDEO: http://tinyurl.com/d4778xk
+  ¯¯¯¯¯¯
+The fight with Gallus shouldn't be too hard if you know what you're doing.
 Gallus will change the color of his aura after a short while, and depending on
 the color he'll also change his primary attack spell. If his aura turns red,
 he'll use Fire Trident and becomes resistant against fire but weak versus water.
@@ -8361,15 +8780,15 @@ and MP with healing items, because the second battle begins right after this
 one.
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
  _________________________
-| BOSS FIGHT: White Witch |
+| BOSS FIGHT: WHITE WITCH |
  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
   STATS:   9800 HP, Weak against: ---, Resists: ---
   ¯¯¯¯¯¯   Steal: Werewolf Claws
 
   ATTACKS: 1. Physical Attacks [Various attacks; Medium Damage]
   ¯¯¯¯¯¯¯¯ 2. Wrathful Rush [Single Target, Use Defend!]
-           3. Harrowing Horns [Closeby targets, Medium Damage, Try to avoid,]
-           4. Death Drop [Ranged, Closeby Targets, Major Damage,
+           3. Harrowing Horns [Close by targets, Medium Damage, Try to avoid,]
+           4. Death Drop [Ranged, Close by Targets, Major Damage,
                           Use Defend!, Try to avoid,
            5. Annihilation [Moving Beam Attack, Major Damage, Use Defend!]
 
@@ -8385,7 +8804,7 @@ blue, and defensively when her stripes are red.
 
 You'll also want watch out for Annihilation. The White Witch will first radiate
 red and charge up, then leap back and perform the beam, which moves around the
-area. It's possible to cancel or avoid it by standing besides her, but if that
+area. It's possible to cancel or avoid it by standing beside her, but if that
 fails, definitely try to defend against it.
 
 Winning the battle is easier if you take things easy. Don't go in for that quick
@@ -8467,28 +8886,28 @@ which are missable, and what do I have to absolutely have to keep in mind in
 order to (eventually) still get a perfect inventory?" In Ni no Kuni this is
 fortunately much easier than in various other RPG's. Below you'll find the short
 list of unique and permanently missable items, along with what you must watch
-out for not to waste your potential perfect save file. 
+out for not to waste your potential perfect save file.
 
-NOTE: We believe this list is complete, HOWEVER, we are human and capable of 
+NOTE: We believe this list is complete, HOWEVER, we are human and capable of
 ¯¯¯¯¯ making mistakes. If you think something is missing from this list,
       please inform us immediately.
 
 .——————————————————————.———————————————————————————————————————————————————————.
-|ITEM:                 |WHAT TO WATCH OUT FOR:                                 |
+| ITEM:                | WHAT TO WATCH OUT FOR:                                |
 |======================|=======================================================|
-|Nazcaän Longsword     |Never sell                                             |
-|Soppy Slapstick       |Never sell                                             |
-|Lullaby Lance         |Never sell                                             |
-|Mom's Favorite Pan    |Never sell                                             |
-|Flawed Claws          |Never sell                                             |
-|Nazcaän Helm          |Never sell                                             |
-|Nazcaän Armor         |Never sell                                             |
-|Diva's Mantle         |Never sell                                             |
-|Pretty Parasol        |Never sell                                             |
-|Hocus Focus Gem       |Get maximum amount of them from Firefry at The Road of |
-|                      |Ruin (behind Perdida) while you still have access.     |
-|                      |When you lose access to this path you also permanently |
-|                      |lose access to an infinite source of this item.        |
+| Nazcaän Longsword    | Never sell                                            |
+| Soppy Slapstick      | Never sell                                            |
+| Lullaby Lance        | Never sell                                            |
+| Mom's Favorite Pan   | Never sell                                            |
+| Flawed Claws         | Never sell                                            |
+| Nazcaän Helm         | Never sell                                            |
+| Nazcaän Armor        | Never sell                                            |
+| Diva's Mantle        | Never sell                                            |
+| Pretty Parasol       | Never sell                                            |
+| Hocus Focus Gem      | Get maximum amount of them from Firefry at The Road   |
+|                      | of Ruin (behind Perdida) while you still have access. |
+|                      | When you lose access to this path you also permanently|
+|                      | lose access to an infinite source of this item.       |
 '——————————————————————'———————————————————————————————————————————————————————'
 
 IMPORTANT: While it doesn't warrant an entire section on its own, it's also
@@ -8499,6 +8918,90 @@ IMPORTANT: While it doesn't warrant an entire section on its own, it's also
            in the story (it will be obvious when this is) you can never fight
            them again. Either get at least one of each, or, if you're aiming for
            hardcore perfection, maximize the counter for each of them.
+
+
+                        OLD FATHER OAK'S REWARDS [ITM-2]
+                        ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+As with what he said at the beginning, Old Father Oak really does want you to
+check in with him from time to time so he can hear of your adventures. If you do
+as he asks, he'll return the favor for taking the trip to see him! (Well, most
+of the time; on four occasions, you only get dialogue.)
+
+.———————————————————————————.——————————————————————————————————————————————————.
+| REWARD:                   | WHEN TO OBTAIN:                                  |
+|===========================|==================================================|
+| • Milk Chocolate x5       | After defeating Hickory Dock (Ding Dong Well)    |
+| - New Dialogue            | After curing Rusty / Rashaad (Al Mamoon)         |
+| • Phoenix Feather x3      | After defeating Moltaan (Old Smoky)              |
+| • Pixie Dew x3            | After acquiring the Sea Cow (Castaway Cove)      |
+| • Medal of Dexterity      | After having the Sea Cow repaired (Teeheeti)     |
+| • Healing Tear Gem &      | After curing Marcassin (Hamelin)                 |
+|   "The Eleventh Tale"     |                                                  |
+| • Green Man's Cloak       | After receiving the map of Magic Stones          |
+| • Nostrum                 | After defeating Cerboreas (Glittering Grotto)    |
+| - New Dialogue            | After receiving the Clarion (Hamelin)            |
+| - New Dialogue            | After defeating Vileheart (Miasma Marshes)       |
+| • Great Sage's Secret     | After returning to Another World with Pea        |
+| • Wizard King's Secret    | After defeating Porco Loco (Hamelin)             |
+| - New Dialogue            | After returning from Ara Memoriae (Spring Isles) |
+'———————————————————————————'——————————————————————————————————————————————————'
+
+
+                              MERIT AWARDS [ITM-3]
+                              ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+As you proceed through the game and complete both Errands and Bounties, you'll
+receive numerous Merit Stamps that you can use on Merit Stamp Cards to redeem
+for some pretty nifty prizes! You must redeem a complete tier's worth of rewards
+before you unlock the next tier.
+
+.—————————————————————.———.————————————————————————————————————————————————————.
+|NAME:                | # |DESCRIPTION:                                        |
+|_____________________|___|____________________________________________________|
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯|¯¯¯¯¯¯¯¯¯| TIER 1 |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+|                     |   |          ¯¯¯¯¯¯¯¯                                  |
+|Jumping Jack         | 1 |Allows you to jump by pressing CIRCLE while running.|
+|                     |   |  Not very useful, but a whole lot of fun!          |
+|Jack Be Nimble       | 1 |Allows you to run a little faster out on the hills  |
+|                     |   |  and plains of the wide world.                     |
+|Little Jack Horner   | 1 |Occasionally makes your foraging efforts more       |
+|                     |   |  fruitful.                                         |
+|Jack-in-the-Box      | 1 |Makes it easier for you to sneak up on enemies from |
+|                     |   |  behind.                                           |
+|Jackpot              | 2 |Causes additional restorative glims to appear during|
+|                     |   |  battle.                                           |
+|Jolly Jack-Tar       | 1 |Hastens your ship's progress across the seven seas. |
+|_____________________|___|____________________________________________________|
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯|¯¯¯¯¯¯¯¯¯| TIER 2 |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+|                     |   |          ¯¯¯¯¯¯¯¯                                  |
+|Cheapjack            | 3 |Allows you to buy items in shops at a slightly lower|
+|                     |   |  price.                                            |
+|Crackerjack          | 3 |Increases the amount of experience gained through   |
+|                     |   |  taking part in battle.                            |
+|Jack-o'-Lantern      | 3 |Helps you strike fear into your enemies, causing    |
+|                     |   |  them to drop more items.                          |
+|Jackpot II           | 3 |Allows you to collect any glims that remain at the  |
+|                     |   |  end of a battle automatically.                    |
+|Jack-at-a-Pinch      | 3 |Lowers the cost of continuing your game following a |
+|                     |   |  defeat on the battlefield.                        |
+|Flapjack             | 2 |Allow you to give Tengri a speed boost by pressing  |
+|                     |   |  CIRCLE while flying.                              |
+|_____________________|___|____________________________________________________|
+|¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|¯¯¯|¯¯¯¯¯¯¯¯¯| TIER 3 |¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯|
+|                     |   |          ¯¯¯¯¯¯¯¯                                  |
+|Jack of Hearts       | 4 |Improves your chances of befriending creatures and  |
+|                     |   |  making them your familiars.                       |
+|Jack-Amend-All       | 4 |Enables the recovery of health through walking. The |
+|                     |   |  more you explore, the more you restore!           |
+|Crackerjack II       | 4 |Further increases the amount of experience gained   |
+|                     |   |  through taking part in battle.                    |
+|Jack-of-all-Trades   | 5 |Reduces the amount of magical power required to     |
+|                     |   |  perform spells, tricks, songs, and trick shots.   |
+|Jack-o'-Lantern II   | 5 |Allow you to terrify your enemies even more, causing|
+|                     |   |  them to drop rare and valuable items.             |
+|Jack the Giant Killer| 8 |Unlocks Oliver's full potential as a wizard and a   |
+|                     |   |  hero! (+100 MAX HP & +100 MAX MP for Oliver)      |
+'—————————————————————'———'————————————————————————————————————————————————————'
+
 
 
                 ___ _  _   _   ___    _   ___ _____ ___ ___  ___
@@ -8521,7 +9024,7 @@ IMPORTANT: While it doesn't warrant an entire section on its own, it's also
 |ATTACK SPEED:     o o o                      | boy who comes to Another World
 |FAVORITE GENUSES: Milites, Vermes, Dracones  | in the hope of saving his
 |MIRACLE MOVE:     Burning Heart              | mother. In battle, Oliver is a
-|WEAPON TYPE:      Wands                      | powerful allround wizard who
+|WEAPON TYPE:      Wands                      | powerful all-round wizard who
 '—————————————————————————————————————————————' has access to a wide variety of
 spells. His HP and MP stats are both excellent, although his HP stays a bit
 behind that of Swaine. Oliver excels in both Magic Attack and Magic Defense,
@@ -8608,7 +9111,7 @@ while his stats in Attack, Defense, Evasion and Accuracy are only average.
 
 NOTE: Marcassin has a lesser arsenal of spells compared to Oliver, however,
 ¯¯¯¯¯ he does have the advantage of being a speedy caster. All of his spells
-      require 30% less time for cooldown compared to Oliver.
+      require 30% less time for cool down compared to Oliver.
 
 
                       F  A  M  I  L  I  A  R  S   [FAM-2]
@@ -8639,7 +9142,7 @@ NOTE: Marcassin has a lesser arsenal of spells compared to Oliver, however,
    |————|————————————————————————————|   |————|————————————————————————————|
    |  1 | Hurly                      |   |  1 | Lagoon Naiad               |
    |  2 | Burly Hurly                |   |  2 | Sea Naiad                  |
-   | 3a | Herlcules                  |   | 3a | Lesser Spotted Naiad       |
+   | 3a | Hurlcules                  |   | 3a | Lesser Spotted Naiad       |
    | 3b | Hurlabaloo                 |   | 3b | Greater Naiad              |
    |————|————————————————————————————|   |————|————————————————————————————|
    |  1 | Ruff                       |   |  1 | Airhead                    |
@@ -8848,32 +9351,43 @@ NOTE: Marcassin has a lesser arsenal of spells compared to Oliver, however,
   [Updates on post-clear content, missing errands/bounties will follow soon.]
 
 
+v1.04. 15 February 2013
+-----------------------
+• Added Old Father Oak's rewards.
+• Added Merit Awards.
+• The remainder of the errands prior to the final boss have been added to the
+  walkthrough.
+• Added a missing hidden treasure from The Hermit's Shell. (Rise and Shine Gem)
+
+
 v1.03. 13 February 2013
 -----------------------
-o Added familiar evolution table.
+• Added familiar evolution table.
+
 
 v1.02. 12 February 2013
 -----------------------
-o Various errands have been added to the walkthrough.
+• Various errands have been added to the walkthrough.
+
 
 v1.01. 07 February 2013
 -----------------------
-o Added an important section on unique items and missables.
+• Added an important section on unique items and missables.
 
 
 v1.00. 04 February 2013
 -----------------------
-o Walkthrough completed.
+• Walkthrough completed.
 
 
 v0.40. 28-29 January 2013
 -------------------------
-o Major walkthrough update.
+• Major walkthrough update.
 
 
 v0.25. 25 January 2013
 ----------------------
-o Initial release.
+• Initial release.
 
 
                          ___ ___ ___ ___ ___ _____ ___
@@ -8885,12 +9399,12 @@ o Initial release.
         This document is © Absolute Steve and Johnathan 'Zy' Sawyer 2013.
                               All rights reserved.
 
-o Random House's Prima: For factual information on familiars and creatures.
+• Random House's Prima: For factual information on familiars and creatures.
   [Or actually, should we say, the Japanese OSG, since Prima translated that.
    Just take a look at page 32, familiar 52 (Aye-Aye Catcher) and spot the
    untranslated Japanese text behind the skill 'Mighty Light'. That's a Rick
    Perry OOPS! right there.]
-o Carson Canady: For a missing green chest in the walkthrough.
+• Carson Canady: For a missing green chest in the walkthrough.
 
                     ___ ___  _____   _____ ___ ___ _  _ _____
                    / __/ _ \| _ \ \ / / _ \_ _/ __| || |_   _|
